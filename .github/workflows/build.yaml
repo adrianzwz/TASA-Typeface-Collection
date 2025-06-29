@@ -12,14 +12,10 @@ jobs:
       uses: actions/setup-python@v5
       with:
         python-version: "3.10"
-    - name: Setup fontspector
-      uses: fonttools/setup-fontspector@main
-      env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Install sys tools/deps
       run: |
         sudo apt-get update
-        sudo apt-get install ttfautohint libcairo2-dev python3-cairo-dev pkg-config python3-dev
+        sudo apt-get install ttfautohint
         sudo snap install yq
     - uses: actions/cache@v4
       with:
@@ -48,7 +44,7 @@ jobs:
 
     - name: Build font
       run: make build
-    - name: Check with fontspector
+    - name: Check with fontbakery
       run: make test
       continue-on-error: true
     - name: proof
@@ -56,10 +52,11 @@ jobs:
     - name: setup site
       run: cp scripts/index.html out/index.html
     - name: Deploy
-      uses: actions/upload-pages-artifact@v3.0.1
+      uses: peaceiris/actions-gh-pages@v3
       if: ${{ github.ref == 'refs/heads/main' }}
       with:
-        path: ./out
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./out
     - name: Archive artifacts
       uses: actions/upload-artifact@v4
       with:
@@ -70,20 +67,6 @@ jobs:
     outputs:
       zip_name: ${{ env.ZIP_NAME }}
 
-  deploy:
-    name: Deploy website to GitHub Pages
-    needs: build
-    runs-on: ubuntu-latest
-    permissions:
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
   # There are two ways a release can be created: either by pushing a tag, or by
   # creating a release from the GitHub UI. Pushing a tag does not automatically
   # create a release, so we have to do that ourselves. However, creating a
@@ -131,4 +114,3 @@ jobs:
       - name: Set release live
         run: |
           gh release edit ${{ github.ref_name }} --draft=false
-
