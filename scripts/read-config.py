@@ -13,7 +13,7 @@ group.add_argument("--sources", action="store_true")
 group.add_argument("--family", action="store_true")
 args = parser.parse_args()
 
-with open(os.path.join("sources", "config.yaml")) as config:
+with open(os.path.join("sources", "config-TASAExplorer.yaml")) as config:
     data = config.read()
 
 if args.family:
