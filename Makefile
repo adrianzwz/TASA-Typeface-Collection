@@ -28,7 +28,7 @@ venv/touchfile: requirements.txt
 	. venv/bin/activate; pip install -Ur requirements.txt
 	touch venv/touchfile
 
-test: build.stamp
+test: venv build.stamp
 	which fontspector || (echo "fontspector not found. Please install it with 'cargo install fontspector'." && exit 1)
 	TOCHECK=$$(find fonts/TASAExplorer/variable -type f 2>/dev/null); if [ -z "$$TOCHECK" ]; then TOCHECK=$$(find fonts/TASAExplorer/ttf -type f 2>/dev/null); fi ; . venv-test/bin/activate; mkdir -p out/ out/fontbakery; fontbakery check-googlefonts -l WARN --full-lists --succinct --badges out/badges --html out/fontbakery/TASAExplorer-fontbakery-report.html --ghmarkdown out/fontbakery/TASAExplorer-fontbakery-report.md $$TOCHECK  || echo '::warning file=sources/config-TASAExplorer.yaml,title=Fontbakery failures::The fontbakery QA check reported errors in your font. Please check the generated report.'
 	TOCHECK=$$(find fonts/TASAOrbiter/variable -type f 2>/dev/null); if [ -z "$$TOCHECK" ]; then TOCHECK=$$(find fonts/TASAOrbiter/ttf -type f 2>/dev/null); fi ; . venv-test/bin/activate; mkdir -p out/ out/fontbakery; fontbakery check-googlefonts -l WARN --full-lists --succinct --badges out/badges --html out/fontbakery/TASAOrbiter-fontbakery-report.html --ghmarkdown out/fontbakery/TASAOrbiter-fontbakery-report.md $$TOCHECK  || echo '::warning file=sources/config-TASAOrbiter.yaml,title=Fontbakery failures::The fontbakery QA check reported errors in your font. Please check the generated report.'
