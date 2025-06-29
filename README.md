@@ -19,7 +19,7 @@ The TASA Typeface Collection consists of TASA Explorer and TASA Orbiter, two bes
 ## About the authors
 
 ### Local Remote
-The fonts are designed with the support of Local Remote. Local Remote is an independent design studio based in Taiwan, aiming to create the future of brand experience through innovative, immersive, experiential, and multi-sensory storytelling across virtual & physical experience. <https://localremote.co/>
+Local Remote is an independent design studio based in Taiwan, aiming to create the future of brand experience through innovative, immersive, experiential, and multi-sensory storytelling across virtual & physical experience. <https://localremote.co/>
 
 ### Weizhong Zhang
 
