@@ -1,0 +1,203 @@
+{
+color = 5;
+glyphname = gravecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (250,680);
+},
+{
+name = top;
+pos = (250,870);
+}
+);
+layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(325,730,l),
+(230,886,l),
+(40,886,l),
+(195,730,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 500;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (250,500);
+},
+{
+name = top;
+pos = (250,720);
+}
+);
+associatedMasterId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+color = 0;
+guides = (
+{
+name = "lc accents top";
+pos = (-46,680);
+},
+{
+name = "lc accents bottom";
+pos = (-46,560);
+}
+);
+layerId = "4358EEA4-9C64-4E11-9DCD-6FE5B1A58C60";
+name = "Apr 26, 25 at 00:25";
+shapes = (
+{
+closed = 1;
+nodes = (
+(289,572,l),
+(199,728,l),
+(113,728,l),
+(211,572,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 500;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (250,500);
+},
+{
+name = top;
+pos = (250,720);
+}
+);
+associatedMasterId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+color = 3;
+guides = (
+{
+name = "lc accents top";
+pos = (-46,700);
+},
+{
+name = "lc accents bottom";
+pos = (-46,556);
+}
+);
+layerId = "6205CA91-4612-4E2B-8CAB-BB9C3DB5D445";
+name = "Apr 26, 25 at 10:59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(295,556,l),
+(241,700,l),
+(125,700,l),
+(233,556,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 500;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (250,680);
+},
+{
+name = top;
+pos = (250,860);
+}
+);
+layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+name = "Deck Regular";
+shapes = (
+{
+closed = 1;
+nodes = (
+(299,740,l),
+(221,886,l),
+(115,886,l),
+(225,740,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 500;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

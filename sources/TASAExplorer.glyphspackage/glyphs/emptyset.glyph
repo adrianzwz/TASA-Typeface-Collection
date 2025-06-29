@@ -1,0 +1,118 @@
+{
+glyphname = emptyset;
+kernLeft = emptyset;
+kernRight = emptyset;
+layers = (
+{
+layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+shapes = (
+{
+alignment = -1;
+ref = whiteCircle;
+},
+{
+closed = 1;
+nodes = (
+(49,20,l),
+(93,-21,l),
+(732,660,l),
+(688,701,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 800;
+},
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (10,0);
+ref = whiteCircle;
+},
+{
+closed = 1;
+nodes = (
+(49,40,l),
+(113,-21,l),
+(733,640,l),
+(669,701,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 782;
+},
+{
+associatedMasterId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+color = 0;
+layerId = "3D319F97-90EC-4EFE-9615-C5A6C6908BEC";
+name = "Apr 27, 25 at 23:12";
+shapes = (
+{
+alignment = -1;
+ref = whiteCircle;
+},
+{
+closed = 1;
+nodes = (
+(25,0,l),
+(118,0,l),
+(756,680,l),
+(663,680,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 782;
+}
+);
+metricRight = "=|";
+unicode = 8709;
+}

@@ -1,0 +1,50 @@
+{
+glyphname = periodcentered.loclCAT.case;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (52,390);
+}
+);
+layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(104,298,l),
+(104,412,l),
+(0,412,l),
+(0,298,l)
+);
+}
+);
+width = 162;
+},
+{
+anchors = (
+{
+name = top;
+pos = (84,430);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(168,293,l),
+(168,447,l),
+(0,447,l),
+(0,293,l)
+);
+}
+);
+width = 197;
+}
+);
+userData = {
+KernOnName = periodcentered.loclCAT.case;
+};
+}

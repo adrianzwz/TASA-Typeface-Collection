@@ -1,0 +1,91 @@
+{
+glyphname = parenleft;
+kernLeft = parenleft;
+kernRight = parenleft;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(370,-140,l),
+(259,-21,o),
+(200,131,o),
+(200,300,cs),
+(200,469,o),
+(259,621,o),
+(370,740,c),
+(215,740,l),
+(104,626,o),
+(46,474,o),
+(46,300,cs),
+(46,126,o),
+(104,-26,o),
+(215,-140,c)
+);
+}
+);
+width = 376;
+},
+{
+layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(333,-140,l),
+(214,-17,o),
+(156,138,o),
+(156,300,cs),
+(156,462,o),
+(214,617,o),
+(333,740,c),
+(235,740,l),
+(119,617,o),
+(66,462,o),
+(66,300,cs),
+(66,138,o),
+(119,-17,o),
+(235,-140,c)
+);
+}
+);
+width = 345;
+},
+{
+associatedMasterId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+layerId = "7A594951-FDFD-4A74-947A-B43F01334335";
+name = "Mar 4, 25 at 22:48";
+shapes = (
+{
+closed = 1;
+nodes = (
+(324,-160,l),
+(198,-31,o),
+(141,144,o),
+(141,295,cs),
+(141,446,o),
+(198,621,o),
+(324,750,c),
+(227,750,l),
+(111,621,o),
+(60,446,o),
+(60,295,cs),
+(60,144,o),
+(111,-31,o),
+(227,-160,c)
+);
+}
+);
+width = 344;
+}
+);
+unicode = 40;
+userData = {
+KernOnName = parenleft;
+KernOnSpecialSpacing = {
+R = parenthesis;
+};
+};
+}

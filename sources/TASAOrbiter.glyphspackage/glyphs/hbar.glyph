@@ -1,0 +1,122 @@
+{
+glyphname = hbar;
+kernLeft = hbar;
+kernRight = n;
+layers = (
+{
+layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+shapes = (
+{
+pos = (15,0);
+ref = h;
+},
+{
+closed = 1;
+nodes = (
+(316,571,l),
+(316,631,l),
+(16,631,l),
+(16,571,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 600;
+},
+{
+layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+shapes = (
+{
+alignment = -1;
+pos = (19,0);
+ref = h;
+},
+{
+closed = 1;
+nodes = (
+(350,543,l),
+(350,629,l),
+(5,629,l),
+(5,543,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 606;
+},
+{
+associatedMasterId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+color = 0;
+layerId = "19E76C0E-B98D-48D6-AF3D-5E91C0DFA690";
+name = "Apr 26, 25 at 10:11";
+shapes = (
+{
+alignment = -1;
+ref = h;
+},
+{
+closed = 1;
+nodes = (
+(274,588,l),
+(274,649,l),
+(5,649,l),
+(5,588,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 537;
+}
+);
+metricLeft = "=|dcroat";
+metricRight = "=h";
+unicode = 295;
+userData = {
+KernOnName = hbar;
+};
+}

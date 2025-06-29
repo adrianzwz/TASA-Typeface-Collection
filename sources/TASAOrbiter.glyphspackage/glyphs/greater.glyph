@@ -1,0 +1,171 @@
+{
+glyphname = greater;
+kernLeft = greater;
+kernRight = greater;
+layers = (
+{
+layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+shapes = (
+{
+closed = 1;
+nodes = (
+(515,293,l),
+(515,347,l),
+(90,143,l),
+(90,53,l),
+(530,268,l),
+(530,372,l),
+(90,587,l),
+(90,497,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 620;
+},
+{
+layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(535,273,l),
+(535,367,l),
+(70,203,l),
+(70,43,l),
+(550,238,l),
+(550,402,l),
+(70,597,l),
+(70,437,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 620;
+},
+{
+associatedMasterId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+color = 0;
+layerId = "94122B79-5A22-4945-A614-AAA7A931781E";
+name = "Apr 27, 25 at 22:48";
+shapes = (
+{
+closed = 1;
+nodes = (
+(531,298,l),
+(531,377,l),
+(51,587,l),
+(51,503,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(531,263,l),
+(531,342,l),
+(51,137,l),
+(51,53,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 582;
+},
+{
+associatedMasterId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+color = 0;
+layerId = "6E1BAEDD-69ED-4935-94A3-61419DAC8AD4";
+name = "Jun 2, 25 at 22:56";
+shapes = (
+{
+closed = 1;
+nodes = (
+(541,288,l),
+(541,432,l),
+(41,597,l),
+(41,441,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(541,208,l),
+(541,352,l),
+(41,199,l),
+(41,43,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+visible = 1;
+width = 582;
+}
+);
+unicode = 62;
+userData = {
+KernOnSpecialSpacing = {
+L = math;
+R = math;
+};
+};
+}

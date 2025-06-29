@@ -1,0 +1,180 @@
+{
+glyphname = eight.circled;
+kernLeft = circle;
+kernRight = circle;
+layers = (
+{
+guides = (
+{
+pos = (-24,564);
+},
+{
+pos = (-24,116);
+},
+{
+pos = (-24,574);
+},
+{
+pos = (-24,106);
+},
+{
+angle = 90;
+pos = (456,-122);
+}
+);
+layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+shapes = (
+{
+ref = _part.circle;
+},
+{
+alignment = -1;
+pos = (276,144);
+ref = eight.dnom;
+}
+);
+width = 912;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = _part.circle;
+},
+{
+alignment = -1;
+pos = (239,139);
+ref = eight.dnom;
+}
+);
+width = 852;
+},
+{
+associatedMasterId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+guides = (
+{
+pos = (-94,544);
+},
+{
+pos = (-94,136);
+},
+{
+angle = 90;
+pos = (456,-122);
+}
+);
+layerId = "E77F947C-6D05-4BE4-B5A4-97B9C1C9B1F1";
+name = "Apr 27, 25 at 01:14";
+shapes = (
+{
+ref = _part.circle;
+},
+{
+pos = (249,116);
+ref = eight;
+scale = (0.66,0.66);
+}
+);
+width = 912;
+},
+{
+associatedMasterId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+color = 3;
+guides = (
+{
+pos = (-24,564);
+},
+{
+pos = (-24,116);
+},
+{
+pos = (-24,574);
+},
+{
+pos = (-24,106);
+},
+{
+angle = 90;
+pos = (456,-122);
+}
+);
+layerId = "B86EA088-C864-45E9-AB31-A63F05667E07";
+name = "May 13, 25 at 18:02";
+shapes = (
+{
+ref = _part.circle;
+},
+{
+closed = 1;
+nodes = (
+(563,106,o),
+(627,158,o),
+(627,236,cs),
+(627,313,o),
+(562,358,o),
+(466,357,c),
+(466,340,l),
+(550,339,o),
+(610,387,o),
+(610,454,cs),
+(610,523,o),
+(549,574,o),
+(458,574,cs),
+(365,574,o),
+(303,521,o),
+(303,450,cs),
+(303,382,o),
+(360,337,o),
+(446,338,c),
+(446,354,l),
+(354,355,o),
+(286,309,o),
+(286,232,cs),
+(286,157,o),
+(348,106,o),
+(456,106,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(392,158,o),
+(352,189,o),
+(352,238,cs),
+(352,291,o),
+(394,321,o),
+(456,321,cs),
+(518,321,o),
+(560,289,o),
+(560,235,cs),
+(560,186,o),
+(522,158,o),
+(456,158,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(405,373,o),
+(369,403,o),
+(369,451,cs),
+(369,495,o),
+(403,522,o),
+(456,522,cs),
+(509,522,o),
+(543,495,o),
+(543,449,cs),
+(543,402,o),
+(508,373,o),
+(456,373,cs)
+);
+}
+);
+width = 912;
+}
+);
+metricLeft = "=_part.circle";
+metricRight = "=_part.circle";
+metricWidth = "=_part.circle";
+unicode = 9319;
+}

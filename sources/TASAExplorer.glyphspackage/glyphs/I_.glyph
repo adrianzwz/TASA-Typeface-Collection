@@ -1,0 +1,196 @@
+{
+glyphname = I;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (136,0);
+},
+{
+name = ogonek;
+pos = (218,0);
+},
+{
+name = top;
+pos = (136,680);
+},
+{
+name = topleft;
+pos = (54,680);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(54,0,l),
+(218,0,l),
+(218,680,l),
+(54,680,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 272;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (140,0);
+},
+{
+name = ogonek;
+pos = (186,0);
+},
+{
+name = top;
+pos = (140,680);
+},
+{
+name = topleft;
+pos = (94,680);
+}
+);
+layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(94,0,l),
+(186,0,l),
+(186,680,l),
+(94,680,l)
+);
+}
+);
+width = 280;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (125,0);
+},
+{
+name = ogonek;
+pos = (205,0);
+},
+{
+name = top;
+pos = (125,700);
+},
+{
+name = topleft;
+pos = (20,700);
+}
+);
+associatedMasterId = m01;
+color = 0;
+layerId = "2086CCAD-F7C5-4152-9773-1732C9F86FC5";
+name = "Mar 1, 25 at 13:32";
+shapes = (
+{
+closed = 1;
+nodes = (
+(45,0,l),
+(205,0,l),
+(205,700,l),
+(45,700,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 250;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (150,0);
+},
+{
+name = ogonek;
+pos = (230,0);
+},
+{
+name = top;
+pos = (150,700);
+},
+{
+name = topleft;
+pos = (45,700);
+}
+);
+associatedMasterId = m01;
+color = 6;
+layerId = "9E033C29-89BD-4126-9F46-E461817FFA39";
+name = "Apr 14, 25 at 21:09";
+shapes = (
+{
+closed = 1;
+nodes = (
+(70,0,l),
+(226,0,l),
+(226,680,l),
+(70,680,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 296;
+}
+);
+metricLeft = "=H";
+metricRight = "=|";
+unicode = 73;
+}

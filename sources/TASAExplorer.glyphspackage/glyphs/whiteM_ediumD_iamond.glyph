@@ -1,0 +1,58 @@
+{
+glyphname = whiteMediumDiamond;
+kernLeft = whiteMediumDiamond;
+kernRight = whiteMediumDiamond;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(558,255,l),
+(288,525,l),
+(18,255,l),
+(288,-15,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(187,255,l),
+(288,356,l),
+(389,255,l),
+(288,154,l)
+);
+}
+);
+width = 576;
+},
+{
+layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(565,250,l),
+(300,515,l),
+(35,250,l),
+(300,-15,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(125,250,l),
+(300,425,l),
+(474,250,l),
+(300,75,l)
+);
+}
+);
+width = 600;
+}
+);
+metricLeft = blackMediumDiamond;
+metricRight = blackMediumDiamond;
+unicode = 11046;
+}

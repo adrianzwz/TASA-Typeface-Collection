@@ -1,0 +1,48 @@
+{
+glyphname = zerosuperior;
+kernLeft = zero.numr;
+kernRight = zero.numr;
+layers = (
+{
+guides = (
+{
+pos = (-5,790);
+},
+{
+pos = (-5,800);
+},
+{
+pos = (-5,388);
+},
+{
+pos = (-5,398);
+}
+);
+layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+shapes = (
+{
+pos = (0,398);
+ref = zero.dnom;
+}
+);
+width = 396;
+},
+{
+layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+shapes = (
+{
+pos = (0,388);
+ref = zero.dnom;
+}
+);
+width = 430;
+}
+);
+unicode = 8304;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
+}

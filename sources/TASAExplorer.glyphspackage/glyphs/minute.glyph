@@ -1,0 +1,44 @@
+{
+glyphname = minute;
+kernLeft = second;
+kernRight = minute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(159,379,l),
+(266,703,l),
+(119,703,l),
+(27,379,l)
+);
+}
+);
+width = 302;
+},
+{
+layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(110,456,l),
+(198,700,l),
+(114,700,l),
+(41,456,l)
+);
+}
+);
+width = 248;
+}
+);
+unicode = 8242;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

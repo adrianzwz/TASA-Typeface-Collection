@@ -1,0 +1,33 @@
+{
+glyphname = at.case;
+kernLeft = at;
+kernRight = at;
+layers = (
+{
+layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+shapes = (
+{
+pos = (0,60);
+ref = at;
+}
+);
+width = 926;
+},
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,60);
+ref = at;
+}
+);
+width = 943;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = symbols;
+R = symbols;
+};
+};
+}

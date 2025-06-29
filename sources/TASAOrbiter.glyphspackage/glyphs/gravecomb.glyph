@@ -1,0 +1,344 @@
+{
+color = 4;
+glyphname = gravecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (250,510);
+},
+{
+name = top;
+pos = (250,690);
+}
+);
+layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(325,570,l),
+(230,726,l),
+(40,726,l),
+(195,570,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 500;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (250,500);
+},
+{
+name = top;
+pos = (250,720);
+}
+);
+associatedMasterId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+color = 0;
+guides = (
+{
+name = "lc accents top";
+pos = (-46,680);
+},
+{
+name = "lc accents bottom";
+pos = (-46,560);
+}
+);
+layerId = "4358EEA4-9C64-4E11-9DCD-6FE5B1A58C60";
+name = "Apr 26, 25 at 00:25";
+shapes = (
+{
+closed = 1;
+nodes = (
+(289,572,l),
+(199,728,l),
+(113,728,l),
+(211,572,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 500;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (250,500);
+},
+{
+name = top;
+pos = (250,720);
+}
+);
+associatedMasterId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+color = 3;
+guides = (
+{
+name = "lc accents top";
+pos = (-46,700);
+},
+{
+name = "lc accents bottom";
+pos = (-46,556);
+}
+);
+layerId = "6205CA91-4612-4E2B-8CAB-BB9C3DB5D445";
+name = "Apr 26, 25 at 10:59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(295,556,l),
+(241,700,l),
+(125,700,l),
+(233,556,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 500;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (250,500);
+},
+{
+name = top;
+pos = (250,670);
+}
+);
+layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+name = "Deck Regular";
+shapes = (
+{
+closed = 1;
+nodes = (
+(299,570,l),
+(221,716,l),
+(115,716,l),
+(225,570,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 500;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (250,500);
+},
+{
+name = top;
+pos = (250,720);
+}
+);
+associatedMasterId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+color = 0;
+guides = (
+{
+name = "lc accents top";
+pos = (-46,700);
+},
+{
+name = "lc accents bottom";
+pos = (-46,560);
+}
+);
+layerId = "83142BC6-308E-4D8B-B2B7-C471E5E44271";
+name = "May 29, 25 at 14:37";
+shapes = (
+{
+closed = 1;
+nodes = (
+(324,543,l),
+(254,708,l),
+(101,708,l),
+(181,543,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 500;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (250,500);
+},
+{
+name = top;
+pos = (250,670);
+}
+);
+associatedMasterId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+layerId = "245C5B60-BA67-4EDD-858E-C64462B6F2FE";
+name = "Jun 21, 25 at 15:03";
+shapes = (
+{
+closed = 1;
+nodes = (
+(299,570,l),
+(231,706,l),
+(135,706,l),
+(229,570,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 500;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (250,510);
+},
+{
+name = top;
+pos = (250,690);
+}
+);
+associatedMasterId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+layerId = "1178F521-10F5-4991-BF10-A54CFC3A6419";
+name = "Jun 21, 25 at 18:31";
+shapes = (
+{
+closed = 1;
+nodes = (
+(315,560,l),
+(251,706,l),
+(91,706,l),
+(195,560,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 500;
+}
+);
+unicode = 768;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

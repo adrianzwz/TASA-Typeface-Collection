@@ -1,0 +1,170 @@
+{
+glyphname = asciicircum;
+kernLeft = asciicircum;
+kernRight = asciicircum;
+layers = (
+{
+layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+shapes = (
+{
+closed = 1;
+nodes = (
+(94,415,l),
+(184,415,l),
+(335,675,l),
+(285,675,l),
+(436,415,l),
+(526,415,l),
+(357,700,l),
+(263,700,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 620;
+},
+{
+layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(44,399,l),
+(204,399,l),
+(359,677,l),
+(261,677,l),
+(416,399,l),
+(576,399,l),
+(395,720,l),
+(225,720,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 620;
+},
+{
+associatedMasterId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+color = 0;
+layerId = "3E17DE8D-E6D1-4E4A-9BA2-A0FD372A51B0";
+name = v1;
+shapes = (
+{
+closed = 1;
+nodes = (
+(41,385,l),
+(125,385,l),
+(280,720,l),
+(209,720,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(233,720,l),
+(388,385,l),
+(473,385,l),
+(304,720,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 514;
+},
+{
+associatedMasterId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+color = 0;
+layerId = "D37FD118-E843-4BC5-AE5E-9C7D7E394AFC";
+name = "Jun 2, 25 at 23:06";
+shapes = (
+{
+closed = 1;
+nodes = (
+(25,379,l),
+(194,379,l),
+(337,720,l),
+(196,720,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(246,720,l),
+(388,379,l),
+(557,379,l),
+(386,720,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 583;
+}
+);
+unicode = 94;
+userData = {
+KernOnSpecialSpacing = {
+L = math;
+R = math;
+};
+};
+}

@@ -1,0 +1,57 @@
+{
+color = 4;
+glyphname = verticallineabovecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (250,500);
+},
+{
+name = top;
+pos = (250,710);
+}
+);
+layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(282,564,l),
+(292,750,l),
+(208,750,l),
+(218,564,l)
+);
+}
+);
+width = 500;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (250,510);
+},
+{
+name = top;
+pos = (250,730);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(301,564,l),
+(316,760,l),
+(184,760,l),
+(199,564,l)
+);
+}
+);
+width = 500;
+}
+);
+unicode = 781;
+}

@@ -1,0 +1,119 @@
+{
+glyphname = quotedblleft;
+kernLeft = quoteleft;
+kernRight = quoteleft;
+layers = (
+{
+layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (368,565);
+ref = quotedblbase;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 368;
+},
+{
+layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (456,540);
+ref = quotedblbase;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 456;
+},
+{
+associatedMasterId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+color = 1;
+layerId = "10E350F2-62C3-42EE-9F65-3F0957631F84";
+name = "Jun 2, 25 at 18:13";
+shapes = (
+{
+closed = 1;
+nodes = (
+(112,575,l),
+(170,705,l),
+(116,705,l),
+(56,575,l),
+(56,461,l),
+(160,461,l),
+(160,575,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(264,575,l),
+(322,705,l),
+(268,705,l),
+(208,575,l),
+(208,461,l),
+(312,461,l),
+(312,575,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 368;
+}
+);
+unicode = 8220;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

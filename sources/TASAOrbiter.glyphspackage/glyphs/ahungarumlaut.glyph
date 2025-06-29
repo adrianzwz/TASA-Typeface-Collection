@@ -1,0 +1,36 @@
+{
+glyphname = ahungarumlaut;
+kernLeft = a.accent;
+kernRight = a.accent;
+layers = (
+{
+layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (28,0);
+ref = hungarumlautcomb;
+}
+);
+width = 550;
+},
+{
+layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (37,0);
+ref = hungarumlautcomb;
+}
+);
+width = 560;
+}
+);
+userData = {
+KernOnName = ahungarumlaut;
+};
+}

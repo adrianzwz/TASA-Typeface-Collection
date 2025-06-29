@@ -1,0 +1,353 @@
+{
+glyphname = V;
+kernLeft = V;
+kernRight = V;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (329,0);
+},
+{
+name = top;
+pos = (329,680);
+}
+);
+layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+shapes = (
+{
+closed = 1;
+nodes = (
+(416,0,l),
+(650,680,l),
+(556,680,l),
+(334,20,l),
+(346,20,l),
+(124,680,l),
+(26,680,l),
+(260,0,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 676;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (344,0);
+},
+{
+name = top;
+pos = (344,680);
+}
+);
+layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(491,0,l),
+(688,680,l),
+(518,680,l),
+(340,20,l),
+(356,20,l),
+(171,680,l),
+(-2,680,l),
+(199,0,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 686;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (329,0);
+},
+{
+name = top;
+pos = (329,680);
+}
+);
+associatedMasterId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+color = 0;
+hints = (
+{
+name = _corner.sharp;
+options = 2;
+origin = (0,3,0,5);
+stem = 1000;
+type = Corner;
+}
+);
+layerId = "EEAF1DD8-EC06-4D91-989C-82D91232A9AD";
+name = "Feb 8, 25 at 22:11";
+shapes = (
+{
+closed = 1;
+nodes = (
+(392,0,l),
+(628,680,l),
+(544,680,l),
+(311,0,l),
+(348,0,l),
+(114,680,l),
+(28,680,l),
+(265,0,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 656;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (329,0);
+},
+{
+name = top;
+pos = (329,680);
+}
+);
+associatedMasterId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+color = 4;
+layerId = "CE4FA216-48A5-4B5D-B22D-1D4CF34B2753";
+name = "Feb 9, 25 at 01:07";
+shapes = (
+{
+closed = 1;
+nodes = (
+(392,0,l),
+(628,680,l),
+(544,680,l),
+(315,0,l),
+(345,0,l),
+(115,680,l),
+(28,680,l),
+(265,0,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 656;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (329,0);
+},
+{
+name = top;
+pos = (329,680);
+}
+);
+associatedMasterId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+color = 0;
+layerId = "552D9307-6F8D-4515-B61C-236B001A0766";
+name = "Apr 23, 25 at 11:44";
+shapes = (
+{
+closed = 1;
+nodes = (
+(403,0,l),
+(628,680,l),
+(544,680,l),
+(322,0,l),
+(337,0,l),
+(114,680,l),
+(28,680,l),
+(253,0,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 656;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (329,0);
+},
+{
+name = top;
+pos = (329,680);
+}
+);
+associatedMasterId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+color = 1;
+layerId = "BF918E58-D885-4394-94F7-10B816370C98";
+name = "Apr 25, 25 at 02:23";
+shapes = (
+{
+closed = 1;
+nodes = (
+(423,0,l),
+(649,680,l),
+(554,680,l),
+(332,0,l),
+(347,0,l),
+(124,680,l),
+(27,680,l),
+(253,0,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 676;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (344,0);
+},
+{
+name = top;
+pos = (344,680);
+}
+);
+associatedMasterId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+color = 0;
+layerId = "D9B8AB85-2404-4843-BE99-7559707A9E4F";
+name = v1;
+shapes = (
+{
+closed = 1;
+nodes = (
+(474,0,l),
+(664,680,l),
+(497,680,l),
+(377,226,l),
+(349,104,l),
+(343,104,l),
+(314,226,l),
+(190,680,l),
+(23,680,l),
+(214,0,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 687;
+}
+);
+metricRight = "=|";
+unicode = 86;
+userData = {
+KernOnName = V;
+};
+}

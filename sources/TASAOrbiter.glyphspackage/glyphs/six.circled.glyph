@@ -1,0 +1,168 @@
+{
+glyphname = six.circled;
+kernLeft = circle;
+kernRight = circle;
+layers = (
+{
+guides = (
+{
+pos = (-24,564);
+},
+{
+pos = (-24,116);
+},
+{
+pos = (-24,574);
+},
+{
+pos = (-24,106);
+},
+{
+angle = 90;
+pos = (456,-122);
+}
+);
+layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+shapes = (
+{
+ref = _part.circle;
+},
+{
+alignment = -1;
+pos = (257,144);
+ref = six.dnom;
+}
+);
+width = 912;
+},
+{
+layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+shapes = (
+{
+ref = _part.circle;
+},
+{
+alignment = -1;
+pos = (217,139);
+ref = six.dnom;
+}
+);
+width = 852;
+},
+{
+associatedMasterId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+guides = (
+{
+pos = (-94,544);
+},
+{
+pos = (-94,136);
+},
+{
+angle = 90;
+pos = (446,-122);
+}
+);
+layerId = "28A69126-7671-4F85-8FC9-662429587710";
+name = "Apr 27, 25 at 00:08";
+shapes = (
+{
+ref = _part.circle;
+},
+{
+pos = (233,116);
+ref = six;
+scale = (0.66,0.66);
+}
+);
+width = 912;
+},
+{
+associatedMasterId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+color = 3;
+guides = (
+{
+pos = (-24,564);
+},
+{
+pos = (-24,116);
+},
+{
+pos = (-24,574);
+},
+{
+pos = (-24,106);
+},
+{
+angle = 90;
+pos = (456,-122);
+}
+);
+layerId = "68433F5B-17EB-4A40-88CE-53A54D81FA07";
+name = "May 13, 25 at 18:01";
+shapes = (
+{
+ref = _part.circle;
+},
+{
+closed = 1;
+nodes = (
+(620,260,ls),
+(620,339,o),
+(557,401,o),
+(468,401,cs),
+(387,401,o),
+(332,347,o),
+(329,294,c),
+(351,293,l),
+(351,363,ls),
+(351,469,o),
+(394,521,o),
+(460,521,cs),
+(508,521,o),
+(539,496,o),
+(546,462,c),
+(613,462,l),
+(605,525,o),
+(552,574,o),
+(465,574,cs),
+(360,574,o),
+(285,498,o),
+(285,359,cs),
+(285,312,ls),
+(285,187,o),
+(334,106,o),
+(455,106,cs),
+(549,106,o),
+(620,171,o),
+(620,253,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(355,259,ls),
+(355,313,o),
+(396,351,o),
+(453,351,cs),
+(511,351,o),
+(553,313,o),
+(553,257,cs),
+(553,251,ls),
+(553,196,o),
+(513,159,o),
+(455,159,cs),
+(398,159,o),
+(355,197,o),
+(355,252,cs)
+);
+}
+);
+width = 912;
+}
+);
+metricLeft = "=_part.circle";
+metricRight = "=_part.circle";
+metricWidth = "=_part.circle";
+unicode = 9317;
+}

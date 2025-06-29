@@ -1,0 +1,23 @@
+{
+glyphname = figurespace;
+kernLeft = figurespace;
+kernRight = figurespace;
+layers = (
+{
+layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+width = 670;
+},
+{
+layerId = m01;
+width = 670;
+}
+);
+metricWidth = zero;
+unicode = 8199;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

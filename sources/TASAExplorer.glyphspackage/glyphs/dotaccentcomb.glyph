@@ -1,0 +1,102 @@
+{
+color = 4;
+glyphname = dotaccentcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (250,510);
+},
+{
+name = top;
+pos = (250,690);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(334,575,l),
+(334,715,l),
+(166,715,l),
+(166,575,l)
+);
+}
+);
+width = 500;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (250,500);
+},
+{
+name = top;
+pos = (250,670);
+}
+);
+layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(303,588,l),
+(303,692,l),
+(197,692,l),
+(197,588,l)
+);
+}
+);
+width = 500;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (250,560);
+},
+{
+name = top;
+pos = (250,720);
+}
+);
+associatedMasterId = m01;
+color = 0;
+guides = (
+{
+pos = (0,595);
+},
+{
+pos = (0,765);
+},
+{
+pos = (0,680);
+}
+);
+layerId = "12933FF1-EA68-40C6-9207-0675CE7091B0";
+name = "Jun 13, 25 at 16:33";
+shapes = (
+{
+closed = 1;
+nodes = (
+(333,598,l),
+(333,760,l),
+(167,760,l),
+(167,598,l)
+);
+}
+);
+width = 500;
+}
+);
+unicode = 775;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

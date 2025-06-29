@@ -1,0 +1,37 @@
+{
+color = 7;
+glyphname = secondtonechinese;
+layers = (
+{
+guides = (
+{
+name = "lc accents top";
+pos = (-46,690);
+},
+{
+name = "lc accents bottom";
+pos = (-46,570);
+}
+);
+layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+shapes = (
+{
+alignment = 1;
+ref = acutecomb;
+}
+);
+width = 500;
+},
+{
+layerId = m01;
+shapes = (
+{
+alignment = 1;
+ref = acutecomb;
+}
+);
+width = 500;
+}
+);
+unicode = 714;
+}

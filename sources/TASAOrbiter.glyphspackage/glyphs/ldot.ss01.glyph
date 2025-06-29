@@ -1,0 +1,42 @@
+{
+color = 3;
+glyphname = ldot.ss01;
+kernLeft = l;
+kernRight = ldot;
+layers = (
+{
+layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+shapes = (
+{
+ref = l.ss01;
+},
+{
+alignment = 1;
+pos = (272,0);
+ref = periodcentered.loclCAT;
+}
+);
+width = 380;
+},
+{
+layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+shapes = (
+{
+ref = l.ss01;
+},
+{
+alignment = 1;
+pos = (276,0);
+ref = periodcentered.loclCAT;
+}
+);
+width = 444;
+}
+);
+metricLeft = "=l";
+userData = {
+KernOnSpecialSpacing = {
+R = NoKerning;
+};
+};
+}

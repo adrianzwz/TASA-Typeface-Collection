@@ -5,5 +5,5 @@
 # Names should be added to this file as:
 # Name or Organization <email address>
 
-Copyright (c) 2022-2023, Local Remote <contact@localremote.co>
-Copyright (c) 2022-2023, Weizhong Zhang <adrianzwz@outlook.com>
+Local Remote <contact@localremote.co>
+Weizhong Zhang <adrianzwz@outlook.com>

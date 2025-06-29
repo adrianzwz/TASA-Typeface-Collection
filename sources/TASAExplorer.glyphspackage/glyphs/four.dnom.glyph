@@ -1,0 +1,204 @@
+{
+glyphname = four.dnom;
+kernLeft = four.dnom;
+kernRight = four.dnom;
+layers = (
+{
+guides = (
+{
+pos = (0,402);
+},
+{
+pos = (0,-10);
+},
+{
+},
+{
+pos = (0,392);
+}
+);
+layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(166,391,l),
+(17,98,l),
+(219,98,l),
+(219,0,l),
+(287,0,l),
+(287,98,l),
+(344,98,l),
+(344,155,l),
+(287,155,l),
+(287,293,l),
+(220,293,l),
+(220,155,l),
+(116,155,l),
+(239,391,l)
+);
+}
+);
+width = 370;
+},
+{
+guides = (
+{
+pos = (0,412);
+},
+{
+pos = (0,-10);
+},
+{
+pos = (0,402);
+},
+{
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(147,402,l),
+(4,92,l),
+(214,92,l),
+(214,0,l),
+(321,0,l),
+(321,92,l),
+(366,92,l),
+(366,180,l),
+(321,180,l),
+(321,300,l),
+(221,300,l),
+(221,180,l),
+(153,180,l),
+(260,402,l)
+);
+}
+);
+width = 374;
+},
+{
+associatedMasterId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+layerId = "B8DA3031-AD8E-43AC-AF23-F6154BDD8AB5";
+name = "Jun 18, 25 at 22:42";
+shapes = (
+{
+pos = (0,-5);
+ref = four;
+scale = (0.585,0.585);
+}
+);
+width = 325;
+},
+{
+associatedMasterId = m01;
+layerId = "1E9522D8-7E14-4EB8-8435-4E8769F34C75";
+name = "Jun 18, 25 at 22:42";
+shapes = (
+{
+pos = (0,-5);
+ref = four;
+scale = (0.6,0.6);
+}
+);
+width = 352;
+},
+{
+associatedMasterId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+guides = (
+{
+pos = (0,402);
+},
+{
+pos = (0,-10);
+},
+{
+},
+{
+pos = (0,392);
+}
+);
+layerId = "B1763935-9128-4F93-885B-201E1C3B8CBD";
+name = "Jun 22, 25 at 20:55";
+shapes = (
+{
+closed = 1;
+nodes = (
+(166,391,l),
+(17,98,l),
+(344,98,l),
+(344,155,l),
+(73,155,l),
+(95,114,l),
+(239,391,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(220,293,l),
+(220,133,l),
+(219,118,l),
+(219,0,l),
+(287,0,l),
+(287,293,l)
+);
+}
+);
+width = 350;
+},
+{
+associatedMasterId = m01;
+guides = (
+{
+pos = (0,412);
+},
+{
+pos = (0,-10);
+},
+{
+pos = (0,402);
+},
+{
+}
+);
+layerId = "39E96CC1-6DC3-429A-AFEA-74AD5E89452A";
+name = "Jun 22, 25 at 20:55";
+shapes = (
+{
+closed = 1;
+nodes = (
+(147,402,l),
+(4,92,l),
+(366,92,l),
+(366,180,l),
+(50,180,l),
+(112,96,l),
+(260,402,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(221,300,l),
+(221,140,l),
+(214,123,l),
+(214,0,l),
+(321,0,l),
+(321,300,l)
+);
+}
+);
+width = 374;
+}
+);
+userData = {
+KernOnName = four.dnom;
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
+}

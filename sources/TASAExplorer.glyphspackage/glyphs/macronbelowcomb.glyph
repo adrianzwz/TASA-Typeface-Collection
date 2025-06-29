@@ -1,0 +1,57 @@
+{
+color = 4;
+glyphname = macronbelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (250,0);
+},
+{
+name = bottom;
+pos = (250,-144);
+}
+);
+layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(390,-166,l),
+(390,-94,l),
+(110,-94,l),
+(110,-166,l)
+);
+}
+);
+width = 500;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (250,0);
+},
+{
+name = bottom;
+pos = (250,-160);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(400,-170,l),
+(400,-80,l),
+(100,-80,l),
+(100,-170,l)
+);
+}
+);
+width = 500;
+}
+);
+unicode = 817;
+}

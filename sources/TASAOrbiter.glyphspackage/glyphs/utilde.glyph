@@ -1,0 +1,37 @@
+{
+glyphname = utilde;
+kernLeft = u.accent;
+kernRight = u.accent;
+layers = (
+{
+layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (39,0);
+ref = tildecomb;
+}
+);
+width = 582;
+},
+{
+layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (39,0);
+ref = tildecomb;
+}
+);
+width = 582;
+}
+);
+unicode = 361;
+userData = {
+KernOnName = utilde;
+};
+}

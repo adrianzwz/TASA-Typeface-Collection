@@ -1,0 +1,69 @@
+{
+glyphname = hcircumflex;
+kernLeft = l;
+kernRight = n;
+layers = (
+{
+layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+shapes = (
+{
+ref = h;
+},
+{
+pos = (-125,0);
+ref = circumflexcomb.case;
+}
+);
+width = 585;
+},
+{
+layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+shapes = (
+{
+ref = h;
+},
+{
+pos = (-119,0);
+ref = circumflexcomb.case;
+}
+);
+width = 587;
+},
+{
+anchors = (
+{
+name = top;
+pos = (321,710);
+}
+);
+associatedMasterId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+layerId = "D69D362D-C09D-49E9-9118-E0482153CC0E";
+name = "Apr 26, 25 at 10:19";
+shapes = (
+{
+ref = h;
+},
+{
+closed = 1;
+nodes = (
+(175,580,l),
+(255,580,l),
+(341,680,l),
+(301,680,l),
+(387,580,l),
+(467,580,l),
+(368,700,l),
+(274,700,l)
+);
+}
+);
+width = 586;
+}
+);
+metricLeft = "=h";
+metricRight = "=h";
+unicode = 293;
+userData = {
+KernOnName = hcircumflex;
+};
+}

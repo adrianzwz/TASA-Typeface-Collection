@@ -1,0 +1,176 @@
+{
+glyphname = Lslash;
+kernLeft = Istroke;
+kernRight = Lslash;
+layers = (
+{
+layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+shapes = (
+{
+closed = 1;
+nodes = (
+(166,291,l),
+(166,285,l),
+(396,421,l),
+(396,495,l),
+(166,359,l),
+(166,365,l),
+(5,270,l),
+(5,196,l)
+);
+},
+{
+alignment = -1;
+pos = (8,0);
+ref = L;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 562;
+},
+{
+layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(197,294,l),
+(202,280,l),
+(447,415,l),
+(447,527,l),
+(202,392,l),
+(197,406,l),
+(10,303,l),
+(10,191,l)
+);
+},
+{
+alignment = -1;
+pos = (50,0);
+ref = L;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 598;
+},
+{
+associatedMasterId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+color = 0;
+layerId = "3F496249-FC55-447B-AA0C-9D1D9116F22F";
+name = "Apr 26, 25 at 15:38";
+shapes = (
+{
+alignment = -1;
+pos = (67,0);
+ref = L;
+},
+{
+closed = 1;
+nodes = (
+(209,280,l),
+(354,375,l),
+(354,445,l),
+(209,350,l),
+(209,356,l),
+(64,261,l),
+(64,191,l),
+(209,286,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 578;
+},
+{
+associatedMasterId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+color = 0;
+layerId = "32C7EE82-7E7D-41F5-A7F7-F6E9AC6668DB";
+name = "Apr 26, 25 at 15:38";
+shapes = (
+{
+alignment = -1;
+pos = (67,0);
+ref = L;
+},
+{
+closed = 1;
+nodes = (
+(225,280,l),
+(472,426,l),
+(472,495,l),
+(225,349,l),
+(225,355,l),
+(64,260,l),
+(64,191,l),
+(225,286,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+visible = 1;
+width = 578;
+}
+);
+metricRight = "=L";
+unicode = 321;
+}

@@ -1,0 +1,84 @@
+{
+glyphname = four.tf;
+layers = (
+{
+layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(306,680,l),
+(28,192,l),
+(575,192,l),
+(575,268,l),
+(130,268,l),
+(141,227,l),
+(406,680,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(377,500,l),
+(377,239,l),
+(378,216,l),
+(378,0,l),
+(470,0,l),
+(470,500,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+monoWidth = 600;
+useSpacing = 70;
+};
+};
+width = 600;
+},
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(251,680,l),
+(0,166,l),
+(590,166,l),
+(590,298,l),
+(80,298,l),
+(169,178,l),
+(421,680,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(360,510,l),
+(360,240,l),
+(352,213,l),
+(352,0,l),
+(511,0,l),
+(511,510,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+monoWidth = 600;
+useSpacing = 60;
+};
+};
+width = 600;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+RMXScaler = {
+source = four;
+};
+};
+}

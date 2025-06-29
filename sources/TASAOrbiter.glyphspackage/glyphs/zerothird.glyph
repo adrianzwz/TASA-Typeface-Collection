@@ -1,0 +1,44 @@
+{
+glyphname = zerothird;
+kernLeft = zero.numr;
+kernRight = three.dnom;
+layers = (
+{
+layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+shapes = (
+{
+ref = zero.numr;
+},
+{
+pos = (424,0);
+ref = fraction;
+},
+{
+pos = (624,0);
+ref = three.dnom;
+}
+);
+width = 1006;
+},
+{
+layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+shapes = (
+{
+ref = zero.numr;
+},
+{
+pos = (400,0);
+ref = fraction;
+},
+{
+pos = (584,0);
+ref = three.dnom;
+}
+);
+width = 993;
+}
+);
+metricLeft = zero.numr;
+metricRight = zero.numr;
+unicode = 8585;
+}

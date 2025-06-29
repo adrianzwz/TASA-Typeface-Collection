@@ -1,0 +1,331 @@
+{
+glyphname = dottedCircle;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (456,0);
+},
+{
+name = ogonek;
+pos = (456,0);
+},
+{
+name = top;
+pos = (456,680);
+},
+{
+name = topright;
+pos = (796,680);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(646,0,o),
+(796,150,o),
+(796,340,cs),
+(796,530,o),
+(646,680,o),
+(456,680,cs),
+(266,680,o),
+(116,530,o),
+(116,340,cs),
+(116,150,o),
+(266,0,o),
+(456,0,cs)
+);
+}
+);
+};
+layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+shapes = (
+{
+alignment = -1;
+pos = (456,0);
+ref = _part.dotted;
+userData = {
+originPath = 2147483647;
+};
+},
+{
+alignment = -1;
+pos = (583.458,24.263);
+ref = _part.dotted;
+userData = {
+originPath = 2147483647;
+};
+},
+{
+alignment = -1;
+pos = (696.973,99.012);
+ref = _part.dotted;
+userData = {
+originPath = 2147483647;
+};
+},
+{
+alignment = -1;
+pos = (771.422,212.69);
+ref = _part.dotted;
+userData = {
+originPath = 2147483647;
+};
+},
+{
+alignment = -1;
+pos = (795.28,339.894);
+ref = _part.dotted;
+userData = {
+originPath = 2147483647;
+};
+},
+{
+alignment = -1;
+pos = (771.237,467.187);
+ref = _part.dotted;
+userData = {
+originPath = 2147483647;
+};
+},
+{
+alignment = -1;
+pos = (696.677,580.667);
+ref = _part.dotted;
+userData = {
+originPath = 2147483647;
+};
+},
+{
+alignment = -1;
+pos = (583.143,655.127);
+ref = _part.dotted;
+userData = {
+originPath = 2147483647;
+};
+},
+{
+alignment = -1;
+pos = (456,679.038);
+ref = _part.dotted;
+userData = {
+originPath = 2147483647;
+};
+},
+{
+alignment = -1;
+pos = (328.857,655.127);
+ref = _part.dotted;
+userData = {
+originPath = 2147483647;
+};
+},
+{
+alignment = -1;
+pos = (215.323,580.667);
+ref = _part.dotted;
+userData = {
+originPath = 2147483647;
+};
+},
+{
+alignment = -1;
+pos = (140.763,467.187);
+ref = _part.dotted;
+userData = {
+originPath = 2147483647;
+};
+},
+{
+alignment = -1;
+pos = (116.72,339.894);
+ref = _part.dotted;
+userData = {
+originPath = 2147483647;
+};
+},
+{
+alignment = -1;
+pos = (140.578,212.69);
+ref = _part.dotted;
+userData = {
+originPath = 2147483647;
+};
+},
+{
+alignment = -1;
+pos = (215.027,99.012);
+ref = _part.dotted;
+userData = {
+originPath = 2147483647;
+};
+},
+{
+alignment = -1;
+pos = (328.542,24.263);
+ref = _part.dotted;
+userData = {
+originPath = 2147483647;
+};
+}
+);
+width = 912;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (456,0);
+},
+{
+name = ogonek;
+pos = (456,0);
+},
+{
+name = top;
+pos = (456,680);
+},
+{
+name = topright;
+pos = (796,680);
+}
+);
+layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+shapes = (
+{
+alignment = -1;
+pos = (456,0);
+ref = _part.dotted;
+userData = {
+originPath = "105553808378016";
+};
+},
+{
+alignment = -1;
+pos = (583.458,24.263);
+ref = _part.dotted;
+userData = {
+originPath = "105553808378016";
+};
+},
+{
+alignment = -1;
+pos = (696.973,99.012);
+ref = _part.dotted;
+userData = {
+originPath = "105553808378016";
+};
+},
+{
+alignment = -1;
+pos = (771.422,212.69);
+ref = _part.dotted;
+userData = {
+originPath = "105553808378016";
+};
+},
+{
+alignment = -1;
+pos = (795.28,339.894);
+ref = _part.dotted;
+userData = {
+originPath = "105553808378016";
+};
+},
+{
+alignment = -1;
+pos = (771.237,467.187);
+ref = _part.dotted;
+userData = {
+originPath = "105553808378016";
+};
+},
+{
+alignment = -1;
+pos = (696.677,580.667);
+ref = _part.dotted;
+userData = {
+originPath = "105553808378016";
+};
+},
+{
+alignment = -1;
+pos = (583.143,655.127);
+ref = _part.dotted;
+userData = {
+originPath = "105553808378016";
+};
+},
+{
+alignment = -1;
+pos = (456,679.038);
+ref = _part.dotted;
+userData = {
+originPath = "105553808378016";
+};
+},
+{
+alignment = -1;
+pos = (328.857,655.127);
+ref = _part.dotted;
+userData = {
+originPath = "105553808378016";
+};
+},
+{
+alignment = -1;
+pos = (215.323,580.667);
+ref = _part.dotted;
+userData = {
+originPath = "105553808378016";
+};
+},
+{
+alignment = -1;
+pos = (140.763,467.187);
+ref = _part.dotted;
+userData = {
+originPath = "105553808378016";
+};
+},
+{
+alignment = -1;
+pos = (116.72,339.894);
+ref = _part.dotted;
+userData = {
+originPath = "105553808378016";
+};
+},
+{
+alignment = -1;
+pos = (140.578,212.69);
+ref = _part.dotted;
+userData = {
+originPath = "105553808378016";
+};
+},
+{
+alignment = -1;
+pos = (215.027,99.012);
+ref = _part.dotted;
+userData = {
+originPath = "105553808378016";
+};
+},
+{
+alignment = -1;
+pos = (328.542,24.263);
+ref = _part.dotted;
+userData = {
+originPath = "105553808378016";
+};
+}
+);
+width = 912;
+}
+);
+unicode = 9676;
+}

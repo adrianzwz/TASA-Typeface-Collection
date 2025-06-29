@@ -1,0 +1,38 @@
+{
+export = 0;
+glyphname = _corner.sharp.S;
+kernLeft = _corner.sharp.S;
+kernRight = _corner.sharp.S;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(0,60,l),
+(-4,-3,l),
+(-3,-4,l),
+(60,0,l)
+);
+}
+);
+width = 200;
+},
+{
+layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+shapes = (
+{
+closed = 0;
+nodes = (
+(0,60,l),
+(-2,-1,l),
+(-1,-2,l),
+(60,0,l)
+);
+}
+);
+width = 200;
+}
+);
+}

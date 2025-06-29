@@ -1,0 +1,36 @@
+{
+glyphname = quotesinglbase;
+kernLeft = quotedblbase;
+kernRight = quotedblbase;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = comma;
+}
+);
+width = 232;
+},
+{
+layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+shapes = (
+{
+alignment = -1;
+ref = comma;
+}
+);
+width = 216;
+}
+);
+metricLeft = comma;
+metricRight = comma;
+unicode = 8218;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

@@ -1,0 +1,44 @@
+{
+glyphname = Obrevedotaboveright;
+kernLeft = O;
+kernRight = Odot;
+layers = (
+{
+layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (125,0);
+ref = brevecomb.case;
+},
+{
+pos = (426,72);
+ref = dotaboverightcomb;
+}
+);
+width = 750;
+},
+{
+layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (123,0);
+ref = brevecomb.case;
+},
+{
+pos = (435,90);
+ref = dotaboverightcomb;
+}
+);
+width = 746;
+}
+);
+userData = {
+KernOnName = Obrevedotaboveright;
+};
+}

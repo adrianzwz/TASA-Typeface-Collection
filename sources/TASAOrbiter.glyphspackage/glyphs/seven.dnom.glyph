@@ -1,0 +1,157 @@
+{
+glyphname = seven.dnom;
+kernLeft = seven.dnom;
+kernRight = seven.dnom;
+layers = (
+{
+layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+shapes = (
+{
+closed = 1;
+nodes = (
+(118,0,l),
+(323,343,l),
+(323,392,l),
+(22,392,l),
+(22,337,l),
+(242,337,l),
+(40,0,l)
+);
+}
+);
+width = 343;
+},
+{
+layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(151,0,l),
+(354,323,l),
+(354,402,l),
+(20,402,l),
+(20,308,l),
+(220,308,l),
+(24,0,l)
+);
+}
+);
+width = 370;
+},
+{
+associatedMasterId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+guides = (
+{
+pos = (-25,442);
+},
+{
+pos = (-25,452);
+},
+{
+pos = (-25,-10);
+}
+);
+layerId = "4ECB9DFD-D857-48A0-BE2C-AAFBAE054057";
+name = "May 13, 25 at 17:30";
+shapes = (
+{
+closed = 1;
+nodes = (
+(130,0,l),
+(361,387,l),
+(361,442,l),
+(22,442,l),
+(22,380,l),
+(320,380,l),
+(304,436,l),
+(42,0,l)
+);
+}
+);
+width = 383;
+},
+{
+associatedMasterId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+color = 1;
+guides = (
+{
+pos = (-5,452);
+},
+{
+pos = (-5,462);
+},
+{
+pos = (-5,-10);
+}
+);
+layerId = "16597278-D437-48F6-8A4B-6C7D02DE286D";
+name = "May 13, 25 at 17:33";
+shapes = (
+{
+closed = 1;
+nodes = (
+(163,0,l),
+(391,363,l),
+(391,452,l),
+(20,452,l),
+(20,350,l),
+(338,350,l),
+(280,401,l),
+(24,0,l)
+);
+}
+);
+width = 411;
+},
+{
+associatedMasterId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+layerId = "883C9568-223D-424B-B344-2A406C43307B";
+name = "Jun 3, 25 at 00:26";
+shapes = (
+{
+closed = 1;
+nodes = (
+(118,0,l),
+(323,343,l),
+(323,392,l),
+(22,392,l),
+(22,337,l),
+(286,337,l),
+(272,387,l),
+(40,0,l)
+);
+}
+);
+width = 343;
+},
+{
+associatedMasterId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+layerId = "A8EDAD46-DCA3-4655-AC11-880F78C68B5D";
+name = "Jun 3, 25 at 00:26";
+shapes = (
+{
+closed = 1;
+nodes = (
+(151,0,l),
+(354,323,l),
+(354,402,l),
+(20,402,l),
+(20,308,l),
+(303,308,l),
+(251,357,l),
+(24,0,l)
+);
+}
+);
+width = 370;
+}
+);
+userData = {
+KernOnName = seven.dnom;
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
+}

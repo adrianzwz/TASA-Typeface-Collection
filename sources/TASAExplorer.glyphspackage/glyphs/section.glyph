@@ -1,0 +1,48 @@
+{
+glyphname = section;
+kernLeft = section;
+kernRight = section;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (17,0);
+ref = _part.section;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (538,590);
+ref = _part.section;
+}
+);
+width = 555;
+},
+{
+layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+shapes = (
+{
+alignment = -1;
+pos = (18,0);
+ref = _part.section;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (538,590);
+ref = _part.section;
+}
+);
+width = 556;
+}
+);
+metricRight = "=|";
+unicode = 167;
+userData = {
+KernOnSpecialSpacing = {
+R = symbols;
+};
+};
+}

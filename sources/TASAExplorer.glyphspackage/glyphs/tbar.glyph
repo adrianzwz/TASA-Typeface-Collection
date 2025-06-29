@@ -1,0 +1,46 @@
+{
+glyphname = tbar;
+kernLeft = tbar;
+kernRight = tbar;
+layers = (
+{
+layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+shapes = (
+{
+ref = t;
+},
+{
+closed = 1;
+nodes = (
+(331,238,l),
+(331,298,l),
+(34,298,l),
+(34,238,l)
+);
+}
+);
+width = 366;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = t;
+},
+{
+closed = 1;
+nodes = (
+(358,220,l),
+(358,306,l),
+(24,306,l),
+(24,220,l)
+);
+}
+);
+width = 386;
+}
+);
+metricLeft = t;
+metricRight = t;
+unicode = 359;
+}

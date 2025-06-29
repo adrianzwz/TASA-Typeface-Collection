@@ -1,0 +1,186 @@
+{
+color = 4;
+glyphname = caroncomb.alt;
+layers = (
+{
+anchors = (
+{
+name = _topright;
+pos = (250,700);
+}
+);
+layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+shapes = (
+{
+closed = 1;
+nodes = (
+(378,530,l),
+(416,700,l),
+(330,700,l),
+(320,530,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 500;
+},
+{
+anchors = (
+{
+name = _topright;
+pos = (250,690);
+}
+);
+layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(389,490,l),
+(440,690,l),
+(310,690,l),
+(300,490,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 500;
+},
+{
+anchors = (
+{
+name = _topright;
+pos = (250,680);
+}
+);
+associatedMasterId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+color = 1;
+guides = (
+{
+name = "lc accents top";
+pos = (-46,680);
+},
+{
+name = "lc accents bottom";
+pos = (-46,560);
+}
+);
+layerId = "C207924D-3CAD-47C2-883F-40ECCE455CCA";
+name = "Apr 26, 25 at 03:00";
+shapes = (
+{
+closed = 1;
+nodes = (
+(340,680,l),
+(250,680,l),
+(250,550,l),
+(310,550,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 500;
+},
+{
+anchors = (
+{
+name = _topright;
+pos = (250,700);
+}
+);
+associatedMasterId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+color = 1;
+guides = (
+{
+name = "lc accents top";
+pos = (-46,690);
+},
+{
+name = "lc accents bottom";
+pos = (-46,570);
+}
+);
+layerId = "C58B54BB-AD4D-46FB-B8F1-B5A65DC28FB4";
+name = "May 23, 25 at 14:33";
+shapes = (
+{
+closed = 1;
+nodes = (
+(394,700,l),
+(310,700,l),
+(300,560,l),
+(354,560,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 500;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

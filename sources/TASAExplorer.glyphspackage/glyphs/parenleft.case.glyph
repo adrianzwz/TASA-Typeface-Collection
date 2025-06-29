@@ -1,0 +1,32 @@
+{
+glyphname = parenleft.case;
+kernLeft = parenleft;
+kernRight = parenleft.case;
+layers = (
+{
+layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+shapes = (
+{
+pos = (0,40);
+ref = parenleft;
+}
+);
+width = 345;
+},
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,40);
+ref = parenleft;
+}
+);
+width = 376;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+R = parenthesis;
+};
+};
+}

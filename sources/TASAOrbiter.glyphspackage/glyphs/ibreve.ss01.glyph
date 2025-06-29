@@ -1,0 +1,37 @@
+{
+color = 3;
+glyphname = ibreve.ss01;
+kernLeft = igrave.ss01;
+kernRight = i.accent;
+layers = (
+{
+layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+shapes = (
+{
+ref = idotless.ss01;
+},
+{
+pos = (-85,0);
+ref = brevecomb;
+}
+);
+width = 290;
+},
+{
+layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+shapes = (
+{
+ref = idotless.ss01;
+},
+{
+pos = (-78,0);
+ref = brevecomb;
+}
+);
+width = 302;
+}
+);
+userData = {
+KernOnName = ibreve.ss01;
+};
+}

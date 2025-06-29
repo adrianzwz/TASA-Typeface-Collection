@@ -1,0 +1,34 @@
+{
+glyphname = Ngrave;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (119,0);
+ref = gravecomb.case;
+}
+);
+width = 772;
+},
+{
+layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (128,0);
+ref = gravecomb.case;
+}
+);
+width = 756;
+}
+);
+unicode = 504;
+}

@@ -1,0 +1,42 @@
+{
+glyphname = guillemetleft;
+kernLeft = guillemetleft;
+kernRight = guillemetleft;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = guilsinglleft;
+},
+{
+pos = (210,0);
+ref = guilsinglleft;
+}
+);
+width = 515;
+},
+{
+layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+shapes = (
+{
+ref = guilsinglleft;
+},
+{
+pos = (180,0);
+ref = guilsinglleft;
+}
+);
+width = 463;
+}
+);
+metricLeft = guilsinglleft;
+metricRight = guilsinglleft;
+unicode = 171;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

@@ -1,0 +1,37 @@
+{
+glyphname = Ibreve;
+kernLeft = I.accent;
+kernRight = I.accent;
+layers = (
+{
+layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-110,0);
+ref = brevecomb.case;
+}
+);
+width = 280;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-114,0);
+ref = brevecomb.case;
+}
+);
+width = 272;
+}
+);
+unicode = 300;
+userData = {
+KernOnName = Ibreve;
+};
+}

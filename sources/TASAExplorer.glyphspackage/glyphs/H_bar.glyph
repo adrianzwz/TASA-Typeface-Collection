@@ -1,0 +1,47 @@
+{
+glyphname = Hbar;
+kernLeft = Istroke;
+kernRight = Istroke;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (27,0);
+ref = H;
+},
+{
+closed = 1;
+nodes = (
+(710,510,l),
+(710,602,l),
+(6,602,l),
+(6,510,l)
+);
+}
+);
+width = 716;
+},
+{
+layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+shapes = (
+{
+pos = (1,0);
+ref = H;
+},
+{
+closed = 1;
+nodes = (
+(686,510,l),
+(686,574,l),
+(15,574,l),
+(15,510,l)
+);
+}
+);
+width = 701;
+}
+);
+metricRight = "=|";
+unicode = 294;
+}

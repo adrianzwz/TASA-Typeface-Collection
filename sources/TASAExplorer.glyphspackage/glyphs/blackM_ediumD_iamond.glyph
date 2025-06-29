@@ -1,0 +1,39 @@
+{
+glyphname = blackMediumDiamond;
+kernLeft = blackMediumDiamond;
+kernRight = blackMediumDiamond;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(18,255,l),
+(288,-15,l),
+(558,255,l),
+(288,525,l)
+);
+}
+);
+width = 576;
+},
+{
+layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(35,250,l),
+(300,-15,l),
+(565,250,l),
+(300,515,l)
+);
+}
+);
+width = 600;
+}
+);
+metricRight = "=|";
+unicode = 11045;
+}

@@ -1,0 +1,37 @@
+{
+glyphname = zero.circled.zero;
+kernLeft = circle;
+kernRight = circle;
+layers = (
+{
+layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+shapes = (
+{
+ref = _part.circle;
+},
+{
+alignment = -1;
+pos = (258,144);
+ref = zero.dnom.zero;
+}
+);
+width = 912;
+},
+{
+layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+shapes = (
+{
+ref = _part.circle;
+},
+{
+alignment = -1;
+pos = (211,139);
+ref = zero.dnom.zero;
+}
+);
+width = 852;
+}
+);
+metricLeft = zero.circled;
+metricRight = zero.circled;
+}

@@ -1,0 +1,47 @@
+{
+glyphname = semicolon;
+kernLeft = colon;
+kernRight = colon;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (6,0);
+ref = comma;
+},
+{
+alignment = -1;
+pos = (6,356);
+ref = period;
+}
+);
+width = 244;
+},
+{
+layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+shapes = (
+{
+alignment = -1;
+pos = (9,0);
+ref = comma;
+},
+{
+alignment = -1;
+pos = (9,386);
+ref = period;
+}
+);
+width = 234;
+}
+);
+metricRight = colon;
+unicode = 59;
+userData = {
+KernOnSpecialSpacing = {
+L = "spaced-off";
+R = "spaced-off";
+};
+};
+}
