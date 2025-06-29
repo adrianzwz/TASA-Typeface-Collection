@@ -230,7 +230,7 @@ mutatormath==3.0.1
     # via ufoprocessor
 nanoemoji==0.15.8
     # via gftools
-networkx==3.5
+networkx==3.4.2
     # via gftools
 ninja==1.11.1.4
     # via
