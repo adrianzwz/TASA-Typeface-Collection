@@ -47,7 +47,7 @@ jobs:
     #     done
 
     - name: Build font
-      run: venv bash sources/build.sh
+      run: make build
     - name: Check with fontspector
       run: make test
       continue-on-error: true
