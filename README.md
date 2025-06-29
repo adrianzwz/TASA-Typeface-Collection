@@ -1,15 +1,15 @@
 # TASA Typeface Collection
 
-[![][Fontbakery]](https://adrianzwz.github.io/TASA-Typeface-Collection.git/fontbakery/fontbakery-report.html)
-[![][Universal]](https://adrianzwz.github.io/TASA-Typeface-Collection.git/fontbakery/fontbakery-report.html)
-[![][GF Profile]](https://adrianzwz.github.io/TASA-Typeface-Collection.git/fontbakery/fontbakery-report.html)
-[![][Shaping]](https://adrianzwz.github.io/TASA-Typeface-Collection.git/fontbakery/fontbakery-report.html)
+[![][Fontbakery]](https://adrianzwz.github.io/TASA-Typeface-Collection/fontbakery/fontbakery-report.html)
+[![][Universal]](https://adrianzwz.github.io/TASA-Typeface-Collection/fontbakery/fontbakery-report.html)
+[![][GF Profile]](https://adrianzwz.github.io/TASA-Typeface-Collection/fontbakery/fontbakery-report.html)
+[![][Shaping]](https://adrianzwz.github.io/TASA-Typeface-Collection/fontbakery/fontbakery-report.html)
 
-[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadrianzwz%2FTASA-Typeface-Collection.git%2Fgh-pages%2Fbadges%2Foverall.json
-[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadrianzwz%2FTASA-Typeface-Collection.git%2Fgh-pages%2Fbadges%2FGoogleFonts.json
-[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadrianzwz%2FTASA-Typeface-Collection.git%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
-[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadrianzwz%2FTASA-Typeface-Collection.git%2Fgh-pages%2Fbadges%2FShapingChecks.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadrianzwz%2FTASA-Typeface-Collection.git%2Fgh-pages%2Fbadges%2FUniversal.json
+[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadrianzwz%2FTASA-Typeface-Collection%2Fgh-pages%2Fbadges%2Foverall.json
+[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadrianzwz%2FTASA-Typeface-Collection%2Fgh-pages%2Fbadges%2FGoogleFonts.json
+[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadrianzwz%2FTASA-Typeface-Collection%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
+[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadrianzwz%2FTASA-Typeface-Collection%2Fgh-pages%2Fbadges%2FShapingChecks.json
+[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadrianzwz%2FTASA-Typeface-Collection%2Fgh-pages%2Fbadges%2FUniversal.json
 
 The TASA Typeface Collection consists of TASA Explorer and TASA Orbiter, two bespoke typefaces designed for the rebrand of Taiwan Space Agency.
 
@@ -33,7 +33,7 @@ If you want to build fonts manually on your own computer:
 * `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
 * `make proof` will generate HTML proof files.
 
-The proof files and QA tests are also available automatically via GitHub Actions - look at https://adrianzwz.github.io/TASA-Typeface-Collection.git.
+The proof files and QA tests are also available automatically via GitHub Actions - look at https://adrianzwz.github.io/TASA-Typeface-Collection.
 
 ## Changelog
 
