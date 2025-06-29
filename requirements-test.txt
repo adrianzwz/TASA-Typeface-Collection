@@ -1,2 +1,0 @@
-# Placeholder file, update the requirements by running `make update`.
--r requirements-test.in
