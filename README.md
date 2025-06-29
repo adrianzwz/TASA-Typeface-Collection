@@ -1,6 +1,6 @@
 # TASA Typeface Collection
 
-<!-- [![][Fontbakery]](https://adrianzwz.github.io/TASA-Typeface-Collection.git/fontbakery/fontbakery-report.html)
+[![][Fontbakery]](https://adrianzwz.github.io/TASA-Typeface-Collection.git/fontbakery/fontbakery-report.html)
 [![][Universal]](https://adrianzwz.github.io/TASA-Typeface-Collection.git/fontbakery/fontbakery-report.html)
 [![][GF Profile]](https://adrianzwz.github.io/TASA-Typeface-Collection.git/fontbakery/fontbakery-report.html)
 [![][Shaping]](https://adrianzwz.github.io/TASA-Typeface-Collection.git/fontbakery/fontbakery-report.html)
@@ -9,7 +9,7 @@
 [GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadrianzwz%2FTASA-Typeface-Collection.git%2Fgh-pages%2Fbadges%2FGoogleFonts.json
 [Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadrianzwz%2FTASA-Typeface-Collection.git%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadrianzwz%2FTASA-Typeface-Collection.git%2Fgh-pages%2Fbadges%2FShapingChecks.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadrianzwz%2FTASA-Typeface-Collection.git%2Fgh-pages%2Fbadges%2FUniversal.json -->
+[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadrianzwz%2FTASA-Typeface-Collection.git%2Fgh-pages%2Fbadges%2FUniversal.json
 
 The TASA Typeface Collection consists of TASA Explorer and TASA Orbiter, two bespoke typefaces designed for the rebrand of Taiwan Space Agency.
 
