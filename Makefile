@@ -33,8 +33,8 @@ test: build.stamp
 	TOCHECK=$$(find fonts/TASAOrbiter/variable -type f 2>/dev/null); if [ -z "$$TOCHECK" ]; then TOCHECK=$$(find fonts/TASAOrbiter/ttf -type f 2>/dev/null); fi ; . venv/bin/activate; mkdir -p out/ out/fontbakery; fontbakery check-googlefonts -l WARN --full-lists --succinct --badges out/badges --html out/fontbakery/TASAOrbiter-fontbakery-report.html --ghmarkdown out/fontbakery/TASAOrbiter-fontbakery-report.md $$TOCHECK  || echo '::warning file=sources/config-TASAOrbiter.yaml,title=Fontbakery failures::The fontbakery QA check reported errors in your font. Please check the generated report.'
 
 proof: venv build.stamp
-	TOCHECK=$$(find fonts/TASAExplorer/variable -type f 2>/dev/null); if [ -z "$$TOCHECK" ]; then TOCHECK=$$(find fonts/TASAExplorer/ttf -type f 2>/dev/null); fi ; . venv/bin/activate; mkdir -p out/ out/proof; diffenator2 proof $$TOCHECK -o out/proof
-	TOCHECK=$$(find fonts/TASAOrbiter/variable -type f 2>/dev/null); if [ -z "$$TOCHECK" ]; then TOCHECK=$$(find fonts/TASAOrbiter/ttf -type f 2>/dev/null); fi ; . venv/bin/activate; mkdir -p out/ out/proof; diffenator2 proof $$TOCHECK -o out/proof
+	TOCHECK=$$(find fonts/TASAExplorer/variable -type f 2>/dev/null); if [ -z "$$TOCHECK" ]; then TOCHECK=$$(find fonts/TASAExplorer/ttf -type f 2>/dev/null); fi ; . venv/bin/activate; mkdir -p out/ out/proof/TASAExplorer; diffenator2 proof $$TOCHECK -o out/proof/TASAExplorer
+	TOCHECK=$$(find fonts/TASAOrbiter/variable -type f 2>/dev/null); if [ -z "$$TOCHECK" ]; then TOCHECK=$$(find fonts/TASAOrbiter/ttf -type f 2>/dev/null); fi ; . venv/bin/activate; mkdir -p out/ out/proof/TASAOrbiter; diffenator2 proof $$TOCHECK -o out/proof/TASAOrbiter
 
 %.png: %.py build.stamp
 	. venv/bin/activate; python3 $< --output $@
