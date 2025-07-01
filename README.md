@@ -8,8 +8,12 @@
 
 The TASA Typeface Collection consists of TASA Explorer and TASA Orbiter, two bespoke typefaces designed for the rebrand of Taiwan Space Agency.
 
-<!-- ![Sample Image](documentation/image1.png)
-![Sample Image](documentation/image2.png) -->
+![Sample Image](documentation/001.gif)
+<!-- ![Sample Image](documentation/image2.png) -->
+
+### version 2 (2025)
+In 2025, both fonts recieved a complete redesign. In version 1, TASA Orbiter included an optical size axis, which is removed in v2. The number of styles is reduced from 13 to 5.
+Both fonts now support the Google Fonts Core Latin character set, plus additional glyphs to support Taiwanese Romanizations ([Tâi-lô](https://en.wikipedia.org/wiki/T%C3%A2i-u%C3%A2n_L%C3%B4-m%C3%A1-j%C4%AB_Phing-im_Hong-%C3%A0n) & [POJ](https://en.wikipedia.org/wiki/Pe%CC%8Dh-%C5%8De-j%C4%AB))
 
 ## Building
 
@@ -44,8 +48,10 @@ This font repository structure is inspired by [Unified Font Repository v0.3](htt
 
 ## About the authors
 
-### Local Remote
-Local Remote is a design studio based in Taiwan, aiming to create the future of brand experience through innovative, immersive, experiential, and multi-sensory storytelling across virtual & physical experience. <https://localremote.co/>
+#### Local Remote
+Local Remote is a design studio based in Taiwan, aiming to create the future of brand experience through innovative, immersive, experiential, and multi-sensory storytelling across virtual & physical experience.
+<https://localremote.co/>
 
-### Weizhong Zhang
-Weizhong Zhang is an independent designer based in Taiwan. He draws both
+#### Weizhong Zhang
+Weizhong Zhang is an independent type & graphic designer based in Taiwan.
+[adrianzwz@outlook.com](mailto:adrianzwz@outlook.com)
