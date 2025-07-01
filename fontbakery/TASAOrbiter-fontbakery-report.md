@@ -69,22 +69,22 @@ definitions.</p>
 <li>U+02D8 BREVE: try adding one of: yi, canadian-aboriginal</li>
 <li>U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal</li>
 <li>U+02DB OGONEK: try adding one of: yi, canadian-aboriginal</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, coptic, cherokee, math</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, tifinagh, coptic, math</li>
 <li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, tifinagh, todhri, duployan, syriac, canadian-aboriginal, coptic, hebrew, malayalam, math, old-permic</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: coptic, duployan, hebrew, syriac, tai-le, todhri, malayalam, tifinagh, math, old-permic, canadian-aboriginal</li>
 <li>U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac</li>
-<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
-<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
+<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
+<li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: try adding sunuwar</li>
 <li>U+0312 COMBINING TURNED COMMA ABOVE: try adding math</li>
 <li>U+0326 COMBINING COMMA BELOW: try adding math</li>
 <li>U+0327 COMBINING CEDILLA: try adding math</li>
 <li>U+0328 COMBINING OGONEK: not included in any glyphset definition</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: caucasian-albanian, tifinagh, thai, sunuwar, syriac, cherokee, gothic</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: cherokee, gothic, syriac, sunuwar, caucasian-albanian, tifinagh, thai</li>
 <li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
-<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: greek, math, elbasan</li>
-<li>U+03BC GREEK SMALL LETTER MU: try adding one of: greek, math</li>
-<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: greek, yi, math</li>
+<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: math, elbasan, greek</li>
+<li>U+03BC GREEK SMALL LETTER MU: try adding one of: math, greek</li>
+<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: yi, math, greek</li>
 <li>U+2003 EM SPACE: try adding nushu</li>
 <li>U+2007 FIGURE SPACE: try adding symbols2</li>
 <li>U+200A HAIR SPACE: try adding symbols2</li>
@@ -152,15 +152,15 @@ definitions.</p>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
 <li>U+2266 LESS-THAN OVER EQUAL TO: try adding math</li>
 <li>U+2267 GREATER-THAN OVER EQUAL TO: try adding math</li>
-<li>U+2460 CIRCLED DIGIT ONE: try adding one of: yi, mongolian, symbols</li>
-<li>U+2461 CIRCLED DIGIT TWO: try adding one of: yi, mongolian, symbols</li>
-<li>U+2462 CIRCLED DIGIT THREE: try adding one of: yi, mongolian, symbols</li>
-<li>U+2463 CIRCLED DIGIT FOUR: try adding one of: yi, mongolian, symbols</li>
-<li>U+2464 CIRCLED DIGIT FIVE: try adding one of: yi, mongolian, symbols</li>
-<li>U+2465 CIRCLED DIGIT SIX: try adding one of: yi, mongolian, symbols</li>
-<li>U+2466 CIRCLED DIGIT SEVEN: try adding one of: yi, mongolian, symbols</li>
-<li>U+2467 CIRCLED DIGIT EIGHT: try adding one of: yi, mongolian, symbols</li>
-<li>U+2468 CIRCLED DIGIT NINE: try adding one of: yi, mongolian, symbols</li>
+<li>U+2460 CIRCLED DIGIT ONE: try adding one of: mongolian, yi, symbols</li>
+<li>U+2461 CIRCLED DIGIT TWO: try adding one of: mongolian, yi, symbols</li>
+<li>U+2462 CIRCLED DIGIT THREE: try adding one of: mongolian, yi, symbols</li>
+<li>U+2463 CIRCLED DIGIT FOUR: try adding one of: mongolian, yi, symbols</li>
+<li>U+2464 CIRCLED DIGIT FIVE: try adding one of: mongolian, yi, symbols</li>
+<li>U+2465 CIRCLED DIGIT SIX: try adding one of: mongolian, yi, symbols</li>
+<li>U+2466 CIRCLED DIGIT SEVEN: try adding one of: mongolian, yi, symbols</li>
+<li>U+2467 CIRCLED DIGIT EIGHT: try adding one of: mongolian, yi, symbols</li>
+<li>U+2468 CIRCLED DIGIT NINE: try adding one of: mongolian, yi, symbols</li>
 <li>U+24EA CIRCLED DIGIT ZERO: try adding symbols</li>
 <li>U+24FF NEGATIVE CIRCLED DIGIT ZERO: try adding symbols</li>
 <li>U+25A0 BLACK SQUARE: try adding symbols</li>
@@ -179,7 +179,7 @@ definitions.</p>
 <li>U+25C7 WHITE DIAMOND: try adding symbols</li>
 <li>U+25CA LOZENGE: try adding one of: math, symbols</li>
 <li>U+25CB WHITE CIRCLE: try adding symbols</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: tifinagh, kayah-li, bengali, mende-kikakui, batak, buhid, grantha, phags-pa, tai-le, limbu, balinese, bassa-vah, thai, sinhala, buginese, gunjala-gondi, khmer, soyombo, symbols, javanese, caucasian-albanian, mahajani, adlam, siddham, tirhuta, old-permic, devanagari, warang-citi, music, gujarati, meetei-mayek, thaana, sharada, mandaic, hebrew, newa, tamil, new-tai-lue, duployan, sundanese, khudawadi, tagbanwa, nko, cham, wancho, zanabazar-square, mongolian, hanifi-rohingya, pahawh-hmong, khojki, psalter-pahlavi, math, takri, bhaiksuki, lao, tai-viet, tagalog, miao, coptic, malayalam, armenian, canadian-aboriginal, chakma, masaram-gondi, osage, brahmi, manichaean, rejang, lepcha, syloti-nagri, elbasan, oriya, ahom, myanmar, gurmukhi, tai-tham, saurashtra, kannada, modi, yi, kaithi, syriac, kharoshthi, tibetan, dogra, sogdian, telugu, marchen, hanunoo</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: hanunoo, oriya, lepcha, tai-viet, wancho, bengali, javanese, khojki, sogdian, meetei-mayek, khudawadi, manichaean, tirhuta, music, tibetan, marchen, bassa-vah, gurmukhi, new-tai-lue, kannada, balinese, saurashtra, cham, masaram-gondi, batak, newa, kharoshthi, old-permic, gunjala-gondi, symbols, zanabazar-square, tamil, brahmi, warang-citi, soyombo, limbu, mahajani, mongolian, tagalog, takri, telugu, sharada, khmer, nko, coptic, modi, hebrew, sundanese, grantha, syloti-nagri, tagbanwa, pahawh-hmong, adlam, duployan, hanifi-rohingya, thaana, tai-le, caucasian-albanian, tai-tham, tifinagh, buhid, kayah-li, bhaiksuki, armenian, yi, ahom, chakma, siddham, lao, mende-kikakui, sinhala, dogra, elbasan, malayalam, gujarati, myanmar, math, thai, canadian-aboriginal, miao, syriac, phags-pa, osage, kaithi, devanagari, buginese, psalter-pahlavi, rejang, mandaic</li>
 <li>U+25CF BLACK CIRCLE: try adding symbols</li>
 <li>U+25FB WHITE MEDIUM SQUARE: try adding one of: math, symbols</li>
 <li>U+25FC BLACK MEDIUM SQUARE: try adding symbols</li>
