@@ -6,10 +6,12 @@
 [E-Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadrianzwz%2FTASA-Typeface-Collection%2Fgh-pages%2Fbadges%2FTASAExplorer%2Foverall.json&label=FontBakery%20QA%20(TASA%20Explorer)
 [O-Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadrianzwz%2FTASA-Typeface-Collection%2Fgh-pages%2Fbadges%2FTASAExplorer%2Foverall.json&label=FontBakery%20QA%20(TASA%20Orbiter)
 
-The TASA Typeface Collection consists of TASA Explorer and TASA Orbiter, two bespoke typefaces designed for the rebrand of Taiwan Space Agency.
+The TASA Typeface Collection consists of TASA Explorer and TASA Orbiter, two bespoke typefaces designed for the [rebrand](https://www.localremote.co/projects/taiwan-space-agency) of [Taiwan Space Agency](https://www.tasa.org.tw/en-US).
 
 ![Sample Image](documentation/001.gif)
-<!-- ![Sample Image](documentation/image2.png) -->
+
+### version 1 (2023)
+(TBD)
 
 ### version 2 (2025)
 In 2025, both fonts recieved a complete redesign. In version 1, TASA Orbiter included an optical size axis, which is removed in v2. The number of styles is reduced from 13 to 5.
@@ -17,6 +19,9 @@ Both fonts now support the Google Fonts Core Latin character set, plus additiona
 
 ![Sample Image](documentation/002.png)
 ![Sample Image](documentation/003.png)
+
+## Contributions and Issues
+To contribute, feel free to fork this project. For errors and suggestions, please create an [Issue](https://github.com/adrianzwz/TASA-Typeface-Collection/issues).
 
 ## Building
 
@@ -38,23 +43,19 @@ The proof files and QA tests are also available automatically via GitHub Actions
 **12 May 2023. Version 1.001**
 - Removed overlaps on glyphs U+2194, U+2195.
 
+## About the authors
+
+**Local Remote** is a design studio based in Taiwan, aiming to create the future of brand experience through innovative, immersive, experiential, and multi-sensory storytelling across virtual & physical experience.  
+[contact@localremote.co](mailto:contact@localremote.co) / <https://localremote.co/>
+
+**Weizhong Zhang** is an independent type & graphic designer based in Taiwan.  
+[adrianzwz@outlook.com](mailto:adrianzwz@outlook.com) / <https://azwz.work/>
+
 ## License
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This Font Software is licensed under the SIL Open Font License, Version 1.1.  
 This license is available with a FAQ at https://openfontlicense.org
 
 ## Repository Layout
 
 This font repository structure is inspired by [Unified Font Repository v0.3](https://github.com/unified-font-repository/Unified-Font-Repository), modified for the Google Fonts workflow.
-
----
-
-## About the authors
-
-#### Local Remote
-Local Remote is a design studio based in Taiwan, aiming to create the future of brand experience through innovative, immersive, experiential, and multi-sensory storytelling across virtual & physical experience.
-<https://localremote.co/>
-
-#### Weizhong Zhang
-Weizhong Zhang is an independent type & graphic designer based in Taiwan.
-[adrianzwz@outlook.com](mailto:adrianzwz@outlook.com)
