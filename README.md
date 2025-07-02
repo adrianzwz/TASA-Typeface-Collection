@@ -15,6 +15,9 @@ The TASA Typeface Collection consists of TASA Explorer and TASA Orbiter, two bes
 In 2025, both fonts recieved a complete redesign. In version 1, TASA Orbiter included an optical size axis, which is removed in v2. The number of styles is reduced from 13 to 5.
 Both fonts now support the Google Fonts Core Latin character set, plus additional glyphs to support Taiwanese Romanizations ([Tâi-lô](https://en.wikipedia.org/wiki/T%C3%A2i-u%C3%A2n_L%C3%B4-m%C3%A1-j%C4%AB_Phing-im_Hong-%C3%A0n) & [POJ](https://en.wikipedia.org/wiki/Pe%CC%8Dh-%C5%8De-j%C4%AB))
 
+![Sample Image](documentation/002.png)
+![Sample Image](documentation/003.png)
+
 ## Building
 
 Fonts are built automatically by GitHub Actions - take a look in the "Actions" tab for the latest build.
