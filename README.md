@@ -3,8 +3,8 @@
 [![][E-Fontbakery]](https://adrianzwz.github.io/TASA-Typeface-Collection/fontbakery/TASAExplorer-fontbakery-report.html)
 [![][O-Fontbakery]](https://adrianzwz.github.io/TASA-Typeface-Collection/fontbakery/TASAExplorer-fontbakery-report.html)
 
-[E-Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadrianzwz%2FTASA-Typeface-Collection%2Fgh-pages%2Fbadges%2FTASAExplorer%2Foverall.json&label=FontBakery%20QA%20(TASA%20Explorer)
-[O-Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadrianzwz%2FTASA-Typeface-Collection%2Fgh-pages%2Fbadges%2FTASAExplorer%2Foverall.json&label=FontBakery%20QA%20(TASA%20Orbiter)
+[E-Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadrianzwz%2FTASA-Typeface-Collection%2Fgh-pages%2Fbadges%2FTASAExplorer%2Foverall.json&label=FontBakery%20QA%20(Explorer)
+[O-Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadrianzwz%2FTASA-Typeface-Collection%2Fgh-pages%2Fbadges%2FTASAExplorer%2Foverall.json&label=FontBakery%20QA%20(Orbiter)
 
 The TASA Typeface Collection is a suite of two typefaces, TASA Explorer and TASA Orbiter, originally designed for [Taiwan Space Agency(TASA)](https://www.tasa.org.tw/en-US), and released under the SIL Open Font License.
 
@@ -30,7 +30,7 @@ In 2025, both typefaces received a complete redesign focused on preserving their
 
 **TASA Explorer** underwent a overhaul, redrawn with slightly lower x-height and smoother letterforms. The spacing is more relaxed and texture is more even, dramatically improving performance at text sizes, making it suitable for both display and text applications.
 
-**TASA Orbiter** was simplified and refined, with the optical size variants removed, reducing styles from 13 to 5 weights, in line with Explorer. The new design based on the previous "deck" optical size, with refined letterforms and spacing.
+**TASA Orbiter** was simplified and refined, with the optical size variants removed, reducing styles from 13 to 5 weights, in line with Explorer. The new design is based on the previous "deck" optical size, with refined letterforms and spacing.
 
 Both typefaces now support the Google Fonts Core Latin character set, plus additional glyphs to support Taiwanese Romanizations ([Tâi-lô](https://en.wikipedia.org/wiki/T%C3%A2i-u%C3%A2n_L%C3%B4-m%C3%A1-j%C4%AB_Phing-im_Hong-%C3%A0n) & [POJ](https://en.wikipedia.org/wiki/Pe%CC%8Dh-%C5%8De-j%C4%AB)).
 
