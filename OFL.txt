@@ -1,4 +1,4 @@
-Copyright 2025 The Tasa-Typeface-Collection.Git Project Authors (https://github.com/adrianzwz/TASA-Typeface-Collection.git)
+Copyright 2025 The Tasa-Typeface-Collection Project Authors (https://github.com/adrianzwz/TASA-Typeface-Collection)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
