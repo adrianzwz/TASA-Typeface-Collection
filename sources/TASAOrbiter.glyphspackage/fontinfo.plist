@@ -34,7 +34,7 @@ value = 1;
 }
 );
 date = "2023-02-13 09:52:30 +0000";
-familyName = "TASA Orbiter 2122";
+familyName = "TASA Orbiter";
 featurePrefixes = (
 {
 automatic = 1;
