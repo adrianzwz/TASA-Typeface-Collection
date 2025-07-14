@@ -1,6 +1,6 @@
 ## FontBakery report
 
-fontbakery version: 1.0.0
+fontbakery version: 1.0.1
 
 
 
@@ -66,25 +66,25 @@ be served. You can solve this by either manually adding additional
 subset declarations to METADATA.pb, or by editing the glyphset
 definitions.</p>
 <ul>
-<li>U+02D8 BREVE: try adding one of: yi, canadian-aboriginal</li>
-<li>U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal</li>
-<li>U+02DB OGONEK: try adding one of: yi, canadian-aboriginal</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, tifinagh, math, cherokee</li>
+<li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
+<li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
+<li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, coptic, tifinagh</li>
 <li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: malayalam, hebrew, tifinagh, syriac, canadian-aboriginal, todhri, coptic, tai-le, duployan, old-permic, math</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: hebrew, syriac, todhri, old-permic, duployan, tifinagh, math, tai-le, canadian-aboriginal, malayalam, coptic</li>
 <li>U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan</li>
-<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
-<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
+<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
+<li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: try adding sunuwar</li>
 <li>U+0312 COMBINING TURNED COMMA ABOVE: try adding math</li>
 <li>U+0326 COMBINING COMMA BELOW: try adding math</li>
 <li>U+0327 COMBINING CEDILLA: try adding math</li>
 <li>U+0328 COMBINING OGONEK: not included in any glyphset definition</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: caucasian-albanian, tifinagh, syriac, gothic, sunuwar, thai, cherokee</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: caucasian-albanian, syriac, tifinagh, gothic, thai, cherokee, sunuwar</li>
 <li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
-<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: math, greek, elbasan</li>
+<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: math, elbasan, greek</li>
 <li>U+03BC GREEK SMALL LETTER MU: try adding one of: math, greek</li>
-<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: yi, math, greek</li>
+<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: math, yi, greek</li>
 <li>U+2003 EM SPACE: try adding nushu</li>
 <li>U+2007 FIGURE SPACE: try adding symbols2</li>
 <li>U+200A HAIR SPACE: try adding symbols2</li>
@@ -152,15 +152,15 @@ definitions.</p>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
 <li>U+2266 LESS-THAN OVER EQUAL TO: try adding math</li>
 <li>U+2267 GREATER-THAN OVER EQUAL TO: try adding math</li>
-<li>U+2460 CIRCLED DIGIT ONE: try adding one of: yi, mongolian, symbols</li>
-<li>U+2461 CIRCLED DIGIT TWO: try adding one of: yi, mongolian, symbols</li>
-<li>U+2462 CIRCLED DIGIT THREE: try adding one of: yi, mongolian, symbols</li>
-<li>U+2463 CIRCLED DIGIT FOUR: try adding one of: yi, mongolian, symbols</li>
-<li>U+2464 CIRCLED DIGIT FIVE: try adding one of: yi, mongolian, symbols</li>
-<li>U+2465 CIRCLED DIGIT SIX: try adding one of: yi, mongolian, symbols</li>
-<li>U+2466 CIRCLED DIGIT SEVEN: try adding one of: yi, mongolian, symbols</li>
-<li>U+2467 CIRCLED DIGIT EIGHT: try adding one of: yi, mongolian, symbols</li>
-<li>U+2468 CIRCLED DIGIT NINE: try adding one of: yi, mongolian, symbols</li>
+<li>U+2460 CIRCLED DIGIT ONE: try adding one of: mongolian, yi, symbols</li>
+<li>U+2461 CIRCLED DIGIT TWO: try adding one of: mongolian, yi, symbols</li>
+<li>U+2462 CIRCLED DIGIT THREE: try adding one of: mongolian, yi, symbols</li>
+<li>U+2463 CIRCLED DIGIT FOUR: try adding one of: mongolian, yi, symbols</li>
+<li>U+2464 CIRCLED DIGIT FIVE: try adding one of: mongolian, yi, symbols</li>
+<li>U+2465 CIRCLED DIGIT SIX: try adding one of: mongolian, yi, symbols</li>
+<li>U+2466 CIRCLED DIGIT SEVEN: try adding one of: mongolian, yi, symbols</li>
+<li>U+2467 CIRCLED DIGIT EIGHT: try adding one of: mongolian, yi, symbols</li>
+<li>U+2468 CIRCLED DIGIT NINE: try adding one of: mongolian, yi, symbols</li>
 <li>U+24EA CIRCLED DIGIT ZERO: try adding symbols</li>
 <li>U+24FF NEGATIVE CIRCLED DIGIT ZERO: try adding symbols</li>
 <li>U+25A0 BLACK SQUARE: try adding symbols</li>
@@ -179,7 +179,7 @@ definitions.</p>
 <li>U+25C7 WHITE DIAMOND: try adding symbols</li>
 <li>U+25CA LOZENGE: try adding one of: math, symbols</li>
 <li>U+25CB WHITE CIRCLE: try adding symbols</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: kannada, balinese, osage, math, soyombo, hanunoo, telugu, new-tai-lue, syloti-nagri, yi, symbols, khmer, takri, zanabazar-square, armenian, old-permic, kharoshthi, mandaic, grantha, buhid, gunjala-gondi, meetei-mayek, masaram-gondi, duployan, thaana, sogdian, tifinagh, miao, bengali, bassa-vah, siddham, canadian-aboriginal, kaithi, kayah-li, malayalam, hebrew, tai-viet, bhaiksuki, mongolian, buginese, oriya, mende-kikakui, music, khudawadi, lepcha, elbasan, gurmukhi, nko, warang-citi, wancho, sundanese, mahajani, khojki, batak, dogra, lao, marchen, tibetan, psalter-pahlavi, thai, cham, rejang, phags-pa, caucasian-albanian, sinhala, saurashtra, sharada, tagalog, manichaean, tai-tham, newa, tamil, brahmi, syriac, limbu, coptic, ahom, adlam, javanese, hanifi-rohingya, myanmar, modi, tai-le, tagbanwa, gujarati, chakma, devanagari, tirhuta, pahawh-hmong</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: dogra, bengali, warang-citi, sogdian, bassa-vah, osage, sundanese, modi, elbasan, mandaic, ahom, manichaean, brahmi, saurashtra, gunjala-gondi, adlam, syriac, new-tai-lue, siddham, gujarati, sinhala, tamil, syloti-nagri, mende-kikakui, phags-pa, khojki, khudawadi, lao, masaram-gondi, yi, rejang, hebrew, duployan, tagbanwa, pahawh-hmong, marchen, kannada, limbu, psalter-pahlavi, nko, math, chakma, newa, meetei-mayek, tifinagh, tai-le, tibetan, balinese, grantha, thai, canadian-aboriginal, tirhuta, tagalog, javanese, devanagari, kayah-li, batak, takri, coptic, kaithi, oriya, telugu, sharada, hanunoo, symbols, mahajani, mongolian, khmer, tai-viet, tai-tham, lepcha, hanifi-rohingya, myanmar, music, old-permic, wancho, thaana, bhaiksuki, buginese, buhid, soyombo, miao, gurmukhi, armenian, caucasian-albanian, kharoshthi, malayalam, cham, zanabazar-square</li>
 <li>U+25CF BLACK CIRCLE: try adding symbols</li>
 <li>U+25FB WHITE MEDIUM SQUARE: try adding one of: math, symbols</li>
 <li>U+25FC BLACK MEDIUM SQUARE: try adding symbols</li>
@@ -309,17 +309,17 @@ definitions.</p>
 
 
 * ⚠️ **WARN** <p>The following glyphs have on-curve points which have potentially incorrect y coordinates:</p>
-<pre><code>* Uogonek (U+0172): X=451.0,Y=-2.0 (should be at baseline 0?)
+<pre><code>* Uogonek (U+0172): X=456.0,Y=-2.0 (should be at baseline 0?)
 
-* germandbls (U+00DF): X=188.5,Y=681.0 (should be at cap-height 680?)
+* germandbls (U+00DF): X=183.5,Y=681.0 (should be at cap-height 680?)
 
 * six.dnom: X=133.0,Y=1.5 (should be at baseline 0?)
 
 * nine.numr: X=254.5,Y=679.0 (should be at cap-height 680?)
 
-* uni2159 (U+2159): X=658.0,Y=1.5 (should be at baseline 0?)
+* uni2159 (U+2159): X=607.0,Y=1.5 (should be at baseline 0?)
 
-* uni215A (U+215A): X=764.0,Y=1.5 (should be at baseline 0?)
+* uni215A (U+215A): X=710.0,Y=1.5 (should be at baseline 0?)
 
 * uni2083 (U+2083): X=342.0,Y=1.0 (should be at baseline 0?)
 
