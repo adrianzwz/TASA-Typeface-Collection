@@ -7,16 +7,16 @@ layers = (
 layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
 shapes = (
 {
-pos = (15,0);
+pos = (36,0);
 ref = h;
 },
 {
 closed = 1;
 nodes = (
-(316,571,l),
-(316,631,l),
-(16,631,l),
-(16,571,l)
+(321,571,l),
+(321,631,l),
+(21,631,l),
+(21,571,l)
 );
 }
 );
@@ -36,14 +36,14 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 600;
+width = 611;
 },
 {
 layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
 shapes = (
 {
 alignment = -1;
-pos = (19,0);
+pos = (24,0);
 ref = h;
 },
 {
@@ -72,7 +72,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 606;
+width = 601;
 },
 {
 associatedMasterId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";

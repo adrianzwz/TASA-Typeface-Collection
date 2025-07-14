@@ -142,7 +142,7 @@ ref = a;
 scale = (0.6,0.6);
 }
 );
-width = 330;
+width = 324;
 },
 {
 associatedMasterId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
@@ -155,7 +155,7 @@ ref = a;
 scale = (0.6,0.6);
 }
 );
-width = 336;
+width = 330;
 },
 {
 associatedMasterId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";

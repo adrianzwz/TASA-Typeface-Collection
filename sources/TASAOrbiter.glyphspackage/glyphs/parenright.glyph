@@ -62,6 +62,7 @@ width = 372;
 );
 unicode = 41;
 userData = {
+KernOnName = parenright;
 KernOnSpecialSpacing = {
 L = parenthesis;
 };

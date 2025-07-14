@@ -267,6 +267,7 @@ width = 238;
 metricRight = "=|";
 unicode = 33;
 userData = {
+KernOnName = exclam;
 KernOnSpecialSpacing = {
 L = "spaced-off";
 };

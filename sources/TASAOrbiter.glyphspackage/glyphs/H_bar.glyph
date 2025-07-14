@@ -8,16 +8,16 @@ layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
 shapes = (
 {
 alignment = -1;
-pos = (1,0);
+pos = (11,0);
 ref = H;
 },
 {
 closed = 1;
 nodes = (
-(729,508,l),
-(729,572,l),
-(15,572,l),
-(15,508,l)
+(734,508,l),
+(734,572,l),
+(20,572,l),
+(20,508,l)
 );
 }
 );
@@ -37,22 +37,22 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 744;
+width = 754;
 },
 {
 layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
 shapes = (
 {
-pos = (27,0);
+pos = (31,0);
 ref = H;
 },
 {
 closed = 1;
 nodes = (
-(756,510,l),
-(756,602,l),
-(6,602,l),
-(6,510,l)
+(755,510,l),
+(755,602,l),
+(5,602,l),
+(5,510,l)
 );
 }
 );
@@ -72,7 +72,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 762;
+width = 760;
 }
 );
 metricRight = "=|";

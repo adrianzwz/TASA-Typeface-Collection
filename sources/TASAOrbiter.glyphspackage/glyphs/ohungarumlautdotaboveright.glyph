@@ -10,15 +10,15 @@ shapes = (
 ref = o;
 },
 {
-pos = (42,0);
+pos = (37,0);
 ref = hungarumlautcomb;
 },
 {
-pos = (290,-98);
+pos = (285,-98);
 ref = dotaboverightcomb;
 }
 );
-width = 584;
+width = 574;
 },
 {
 layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
@@ -27,15 +27,15 @@ shapes = (
 ref = o;
 },
 {
-pos = (43,0);
+pos = (38,0);
 ref = hungarumlautcomb;
 },
 {
-pos = (324,-85);
+pos = (319,-85);
 ref = dotaboverightcomb;
 }
 );
-width = 586;
+width = 576;
 }
 );
 userData = {

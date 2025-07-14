@@ -7,7 +7,7 @@ layers = (
 anchors = (
 {
 name = top;
-pos = (292,500);
+pos = (287,500);
 }
 );
 layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
@@ -18,10 +18,10 @@ ref = o;
 {
 closed = 1;
 nodes = (
-(39,-20,l),
-(88,-57,l),
-(545,520,l),
-(496,557,l)
+(34,-20,l),
+(83,-57,l),
+(540,520,l),
+(491,557,l)
 );
 }
 );
@@ -41,13 +41,13 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 584;
+width = 574;
 },
 {
 anchors = (
 {
 name = top;
-pos = (293,510);
+pos = (288,510);
 }
 );
 layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
@@ -58,10 +58,10 @@ ref = o;
 {
 closed = 1;
 nodes = (
-(23,-16,l),
-(83,-64,l),
-(563,516,l),
-(503,564,l)
+(18,-16,l),
+(78,-64,l),
+(558,516,l),
+(498,564,l)
 );
 }
 );
@@ -81,7 +81,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 586;
+width = 576;
 },
 {
 associatedMasterId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
@@ -109,7 +109,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 584;
+width = 574;
 },
 {
 associatedMasterId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
@@ -329,6 +329,7 @@ com.hugojourdan.ColorFlow = {
 width = 586;
 }
 );
+metricRight = "=|";
 unicode = 248;
 userData = {
 KernOnName = oslash;

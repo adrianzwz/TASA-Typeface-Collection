@@ -11,7 +11,7 @@ shapes = (
 ref = jdotless.ss01;
 },
 {
-pos = (-85,0);
+pos = (-80,0);
 ref = acutecomb;
 }
 );
@@ -40,7 +40,7 @@ shapes = (
 ref = jdotless.ss01;
 },
 {
-pos = (-78,0);
+pos = (-83,0);
 ref = acutecomb;
 }
 );
@@ -60,7 +60,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 302;
+width = 292;
 }
 );
 }

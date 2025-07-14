@@ -10,7 +10,7 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (-125,0);
+pos = (-120,0);
 ref = dotaccentcomb;
 }
 );
@@ -39,7 +39,7 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (-120,0);
+pos = (-125,0);
 ref = dotaccentcomb;
 }
 );
@@ -59,7 +59,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 260;
+width = 250;
 }
 );
 metricLeft = "=jdotless";

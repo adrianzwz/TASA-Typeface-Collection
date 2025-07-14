@@ -11,11 +11,11 @@ ref = l;
 },
 {
 alignment = 1;
-pos = (250,0);
+pos = (240,0);
 ref = periodcentered.loclCAT;
 }
 );
-width = 358;
+width = 348;
 },
 {
 layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
@@ -25,11 +25,11 @@ ref = l;
 },
 {
 alignment = 1;
-pos = (262,0);
+pos = (252,0);
 ref = periodcentered.loclCAT;
 }
 );
-width = 430;
+width = 420;
 }
 );
 metricLeft = "=l";

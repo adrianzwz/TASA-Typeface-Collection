@@ -11,7 +11,7 @@ shapes = (
 ref = l.ss01;
 },
 {
-pos = (-113,0);
+pos = (-108,0);
 ref = commaaccentcomb;
 }
 );
@@ -31,7 +31,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 272;
+width = 282;
 },
 {
 layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
@@ -40,7 +40,7 @@ shapes = (
 ref = l.ss01;
 },
 {
-pos = (-104,0);
+pos = (-109,0);
 ref = commaaccentcomb;
 }
 );
@@ -60,7 +60,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 284;
+width = 274;
 }
 );
 }

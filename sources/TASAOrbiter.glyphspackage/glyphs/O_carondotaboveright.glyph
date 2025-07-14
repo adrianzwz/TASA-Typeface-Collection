@@ -10,15 +10,15 @@ shapes = (
 ref = O;
 },
 {
-pos = (125,0);
+pos = (124,0);
 ref = caroncomb.case;
 },
 {
-pos = (426,72);
+pos = (425,72);
 ref = dotaboverightcomb;
 }
 );
-width = 750;
+width = 748;
 },
 {
 layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
@@ -27,15 +27,15 @@ shapes = (
 ref = O;
 },
 {
-pos = (123,0);
+pos = (118,0);
 ref = caroncomb.case;
 },
 {
-pos = (435,90);
+pos = (430,90);
 ref = dotaboverightcomb;
 }
 );
-width = 746;
+width = 736;
 }
 );
 userData = {

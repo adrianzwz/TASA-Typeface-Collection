@@ -11,7 +11,7 @@ shapes = (
 ref = idotless.ss01;
 },
 {
-pos = (-85,0);
+pos = (-80,0);
 ref = verticallineabovecomb;
 }
 );
@@ -24,11 +24,11 @@ shapes = (
 ref = idotless.ss01;
 },
 {
-pos = (-78,0);
+pos = (-83,0);
 ref = verticallineabovecomb;
 }
 );
-width = 302;
+width = 292;
 }
 );
 userData = {

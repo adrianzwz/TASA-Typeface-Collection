@@ -11,7 +11,7 @@ alignment = -1;
 ref = d;
 },
 {
-pos = (283,0);
+pos = (278,0);
 ref = caroncomb.alt;
 }
 );
@@ -31,7 +31,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 638;
+width = 648;
 },
 {
 layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
@@ -41,7 +41,7 @@ alignment = -1;
 ref = d;
 },
 {
-pos = (314,0);
+pos = (309,0);
 ref = caroncomb.alt;
 }
 );
@@ -61,7 +61,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 704;
+width = 694;
 }
 );
 metricLeft = d;

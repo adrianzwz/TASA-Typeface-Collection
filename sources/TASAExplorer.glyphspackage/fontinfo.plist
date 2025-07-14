@@ -34,7 +34,7 @@ value = 1;
 }
 );
 date = "2023-02-13 09:52:30 +0000";
-familyName = "TASA Explorer";
+familyName = "TASA Explorer 2122";
 featurePrefixes = (
 {
 automatic = 1;
@@ -1678,7 +1678,7 @@ name = Regular;
 },
 {
 axesValues = (
-104
+105
 );
 customParameters = (
 {
@@ -1692,15 +1692,15 @@ Location = 500;
 }
 );
 instanceInterpolations = {
-"8DAFC702-8226-41F4-8BBE-2050DDC1B01E" = 0.8;
-m01 = 0.2;
+"8DAFC702-8226-41F4-8BBE-2050DDC1B01E" = 0.78571;
+m01 = 0.21429;
 };
 name = Medium;
 weightClass = 500;
 },
 {
 axesValues = (
-120
+121
 );
 customParameters = (
 {
@@ -1714,15 +1714,15 @@ Location = 600;
 }
 );
 instanceInterpolations = {
-"8DAFC702-8226-41F4-8BBE-2050DDC1B01E" = 0.57143;
-m01 = 0.42857;
+"8DAFC702-8226-41F4-8BBE-2050DDC1B01E" = 0.55714;
+m01 = 0.44286;
 };
 name = SemiBold;
 weightClass = 600;
 },
 {
 axesValues = (
-138
+139
 );
 customParameters = (
 {
@@ -1736,8 +1736,8 @@ Location = 700;
 }
 );
 instanceInterpolations = {
-"8DAFC702-8226-41F4-8BBE-2050DDC1B01E" = 0.31429;
-m01 = 0.68571;
+"8DAFC702-8226-41F4-8BBE-2050DDC1B01E" = 0.3;
+m01 = 0.7;
 };
 isBold = 1;
 name = Bold;
@@ -15255,6 +15255,10 @@ m01 = {
 "@MMK_R_x" = -27;
 "@MMK_R_z" = -21;
 };
+"@MMK_L_odot" = {
+"@MMK_R_quotedbl" = 50;
+"@MMK_R_quoteright" = 60;
+};
 "@MMK_L_one" = {
 "@MMK_R_A" = 0;
 "@MMK_R_H" = 0;
@@ -19088,7 +19092,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2023-2025 The TASA Explorer Project Authors (https://github.com/adrianzwz/TASA-Typeface-Collection)";
+value = "Copyright 2022-2025 The TASA Explorer Project Authors (https://github.com/adrianzwz/TASA-Typeface-Collection)";
 }
 );
 },

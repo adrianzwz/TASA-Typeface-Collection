@@ -10,11 +10,11 @@ shapes = (
 ref = R;
 },
 {
-pos = (91,0);
+pos = (86,0);
 ref = macronbelowcomb;
 }
 );
-width = 663;
+width = 653;
 },
 {
 layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
@@ -23,11 +23,11 @@ shapes = (
 ref = R;
 },
 {
-pos = (81,0);
+pos = (76,0);
 ref = macronbelowcomb;
 }
 );
-width = 667;
+width = 657;
 }
 );
 metricLeft = R;

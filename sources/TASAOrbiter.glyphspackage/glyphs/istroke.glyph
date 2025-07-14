@@ -7,26 +7,26 @@ layers = (
 layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
 shapes = (
 {
-pos = (10,0);
+pos = (20,0);
 ref = i;
 },
 {
 closed = 1;
 nodes = (
-(5,270,l),
-(265,270,l),
-(265,332,l),
-(5,332,l)
+(10,270,l),
+(270,270,l),
+(270,332,l),
+(10,332,l)
 );
 }
 );
-width = 270;
+width = 280;
 },
 {
 layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
 shapes = (
 {
-pos = (25,0);
+pos = (30,0);
 ref = i;
 },
 {

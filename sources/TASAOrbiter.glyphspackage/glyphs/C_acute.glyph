@@ -10,36 +10,7 @@ shapes = (
 ref = C;
 },
 {
-pos = (122,0);
-ref = acutecomb.case;
-}
-);
-userData = {
-com.hugojourdan.ColorFlow = {
-"0" = 0;
-"1" = 0;
-"10" = 0;
-"11" = 0;
-"2" = 0;
-"3" = 0;
-"4" = 0;
-"5" = 0;
-"6" = 0;
-"7" = 0;
-"8" = 0;
-"9" = 0;
-};
-};
-width = 720;
-},
-{
-layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
-shapes = (
-{
-ref = C;
-},
-{
-pos = (124,0);
+pos = (121,0);
 ref = acutecomb.case;
 }
 );
@@ -60,6 +31,35 @@ com.hugojourdan.ColorFlow = {
 };
 };
 width = 716;
+},
+{
+layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+shapes = (
+{
+ref = C;
+},
+{
+pos = (119,0);
+ref = acutecomb.case;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 706;
 }
 );
 unicode = 262;

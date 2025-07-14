@@ -25,11 +25,11 @@ ref = L;
 },
 {
 alignment = 1;
-pos = (368,0);
+pos = (358,0);
 ref = periodcentered.loclCAT.case;
 }
 );
-width = 590;
+width = 580;
 }
 );
 unicode = 319;

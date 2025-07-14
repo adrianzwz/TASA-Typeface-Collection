@@ -131,7 +131,7 @@ scale = (0.6,0.6);
 }
 );
 visible = 1;
-width = 350;
+width = 344;
 },
 {
 associatedMasterId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
@@ -144,7 +144,7 @@ ref = o;
 scale = (0.6,0.6);
 }
 );
-width = 352;
+width = 346;
 },
 {
 associatedMasterId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";

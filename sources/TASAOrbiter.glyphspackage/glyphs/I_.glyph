@@ -7,19 +7,19 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (140,0);
+pos = (135,0);
 },
 {
 name = ogonek;
-pos = (186,0);
+pos = (181,0);
 },
 {
 name = top;
-pos = (140,680);
+pos = (135,680);
 },
 {
 name = topleft;
-pos = (95,680);
+pos = (90,680);
 }
 );
 layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
@@ -27,10 +27,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(186,0,l),
-(186,680,l),
-(94,680,l),
-(94,0,l)
+(181,0,l),
+(181,680,l),
+(89,680,l),
+(89,0,l)
 );
 }
 );
@@ -50,25 +50,25 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 280;
+width = 270;
 },
 {
 anchors = (
 {
 name = bottom;
-pos = (136,0);
+pos = (131,0);
 },
 {
 name = ogonek;
-pos = (218,0);
+pos = (213,0);
 },
 {
 name = top;
-pos = (136,680);
+pos = (131,680);
 },
 {
 name = topleft;
-pos = (54,680);
+pos = (49,680);
 }
 );
 layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
@@ -76,10 +76,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(218,0,l),
-(218,680,l),
-(54,680,l),
-(54,0,l)
+(213,0,l),
+(213,680,l),
+(49,680,l),
+(49,0,l)
 );
 }
 );
@@ -99,7 +99,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 272;
+width = 262;
 },
 {
 anchors = (

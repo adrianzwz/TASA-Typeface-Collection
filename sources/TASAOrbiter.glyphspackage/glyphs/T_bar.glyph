@@ -1,7 +1,7 @@
 {
 glyphname = Tbar;
-kernLeft = Tbar;
-kernRight = Tbar;
+kernLeft = T;
+kernRight = T;
 layers = (
 {
 layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
@@ -9,17 +9,17 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(494,313,l),
-(494,377,l),
-(102,377,l),
-(102,313,l)
+(499,313,l),
+(499,377,l),
+(107,377,l),
+(107,313,l)
 );
 },
 {
 ref = T;
 }
 );
-width = 588;
+width = 598;
 },
 {
 layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
@@ -27,17 +27,17 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(545,281,l),
-(545,377,l),
-(81,377,l),
-(81,281,l)
+(540,281,l),
+(540,377,l),
+(76,377,l),
+(76,281,l)
 );
 },
 {
 ref = T;
 }
 );
-width = 626;
+width = 616;
 }
 );
 metricLeft = T;

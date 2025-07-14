@@ -10,7 +10,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (169,0);
+pos = (164,0);
 ref = dieresiscomb;
 }
 );
@@ -30,7 +30,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 836;
+width = 826;
 },
 {
 layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
@@ -39,7 +39,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (194,0);
+pos = (189,0);
 ref = dieresiscomb;
 }
 );
@@ -59,7 +59,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 888;
+width = 878;
 }
 );
 unicode = 7813;

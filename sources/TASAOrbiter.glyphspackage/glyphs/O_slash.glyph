@@ -7,11 +7,11 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (375,0);
+pos = (374,0);
 },
 {
 name = top;
-pos = (375,680);
+pos = (374,680);
 }
 );
 layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
@@ -22,10 +22,10 @@ ref = O;
 {
 closed = 1;
 nodes = (
-(44,-20,l),
-(98,-64,l),
-(706,700,l),
-(652,744,l)
+(43,-20,l),
+(97,-64,l),
+(705,700,l),
+(651,744,l)
 );
 }
 );
@@ -45,17 +45,17 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 750;
+width = 748;
 },
 {
 anchors = (
 {
 name = bottom;
-pos = (373,0);
+pos = (368,0);
 },
 {
 name = top;
-pos = (373,680);
+pos = (368,680);
 }
 );
 layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
@@ -66,10 +66,10 @@ ref = O;
 {
 closed = 1;
 nodes = (
-(27,-8,l),
-(101,-66,l),
-(719,688,l),
-(645,746,l)
+(22,-8,l),
+(96,-66,l),
+(714,688,l),
+(640,746,l)
 );
 }
 );
@@ -89,7 +89,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 746;
+width = 736;
 },
 {
 associatedMasterId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
@@ -316,5 +316,6 @@ com.hugojourdan.ColorFlow = {
 width = 746;
 }
 );
+metricRight = "=|";
 unicode = 216;
 }

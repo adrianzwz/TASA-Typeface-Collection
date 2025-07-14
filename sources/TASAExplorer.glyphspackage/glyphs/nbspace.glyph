@@ -5,11 +5,11 @@ kernRight = nbspace;
 layers = (
 {
 layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
-width = 270;
+width = 250;
 },
 {
 layerId = m01;
-width = 220;
+width = 190;
 }
 );
 metricWidth = space;
