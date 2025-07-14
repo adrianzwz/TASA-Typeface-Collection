@@ -14,6 +14,8 @@ jobs:
         python-version: "3.10"
     - name: Install sys tools/deps
       run: |
+        sudo apt update
+        sudo apt install -y libcairo2-dev pkg-config python3-dev
         sudo apt-get update
         sudo apt-get install ttfautohint
         sudo snap install yq
