@@ -19092,7 +19092,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2022-2025 The TASA Explorer Project Authors (https://github.com/adrianzwz/TASA-Typeface-Collection)";
+value = "Copyright 2022-2025 The TASA Typeface Collection Project Authors (https://github.com/localremotetw/TASA-Typeface-Collection)";
 }
 );
 },
@@ -19102,8 +19102,16 @@ values = (
 {
 language = dflt;
 value = "Weizhong Zhang";
+},
+{
+language = ZHT;
+value = "張維中";
 }
 );
+},
+{
+key = designerURL;
+value = "https://azwz.work";
 },
 {
 key = licenses;

@@ -1,10 +1,10 @@
 # TASA Typeface Collection
 
-[![][E-Fontbakery]](https://adrianzwz.github.io/TASA-Typeface-Collection/fontbakery/TASAExplorer-fontbakery-report.html)
-[![][O-Fontbakery]](https://adrianzwz.github.io/TASA-Typeface-Collection/fontbakery/TASAExplorer-fontbakery-report.html)
+[![][E-Fontbakery]](https://localremotetw.github.io/TASA-Typeface-Collection/fontbakery/TASAExplorer-fontbakery-report.html)
+[![][O-Fontbakery]](https://localremotetw.github.io/TASA-Typeface-Collection/fontbakery/TASAExplorer-fontbakery-report.html)
 
-[E-Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadrianzwz%2FTASA-Typeface-Collection%2Fgh-pages%2Fbadges%2FTASAExplorer%2Foverall.json&label=FontBakery%20QA%20(Explorer)
-[O-Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadrianzwz%2FTASA-Typeface-Collection%2Fgh-pages%2Fbadges%2FTASAExplorer%2Foverall.json&label=FontBakery%20QA%20(Orbiter)
+[E-Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flocalremotetw%2FTASA-Typeface-Collection%2Fgh-pages%2Fbadges%2FTASAExplorer%2Foverall.json&label=FontBakery%20QA%20(Explorer)
+[O-Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flocalremotetw%2FTASA-Typeface-Collection%2Fgh-pages%2Fbadges%2FTASAExplorer%2Foverall.json&label=FontBakery%20QA%20(Orbiter)
 
 The TASA Typeface Collection is a suite of two typefaces, TASA Explorer and TASA Orbiter, originally designed for [Taiwan Space Agency(TASA)](https://www.tasa.org.tw/en-US), and released under the SIL Open Font License.
 
@@ -23,7 +23,7 @@ The original TASA typefaces were designed between 2022–2023 as part of the com
 
 **TASA Orbiter** (v1) had a more complex system of 13 styles across 3 optical sizes. Text and Deck had 4 weights, and Display had 5 weights.
 
-Files of version 1 can still be found in the [releases](https://github.com/adrianzwz/TASA-Typeface-Collection/releases/tag/v1.001) section, but are no longer maintained.
+Files of version 1 can still be found in the [releases](https://github.com/localremotetw/TASA-Typeface-Collection/releases/tag/v1.001) section, but are no longer maintained.
 
 ### version 2 (2025) –– Redesign
 In 2025, both typefaces received a complete redesign focused on preserving their design characteristics while significantly improving drawing quality and readability in small sizes.
@@ -38,7 +38,7 @@ Both typefaces now support the Google Fonts Core Latin character set, plus addit
 ![Sample Image](documentation/003.png)
 
 ## Contributions and Issues
-To contribute, feel free to fork this project. For errors and suggestions, please create an [Issue](https://github.com/adrianzwz/TASA-Typeface-Collection/issues).
+To contribute, feel free to fork this project. For errors and suggestions, please create an [Issue](https://github.com/localremotetw/TASA-Typeface-Collection/issues).
 
 ## Building
 
@@ -50,7 +50,7 @@ If you want to build fonts manually on your own computer:
 * `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
 * `make proof` will generate HTML proof files.
 
-The proof files and QA tests are also available automatically via GitHub Actions - look at <https://adrianzwz.github.io/TASA-Typeface-Collection/>.
+The proof files and QA tests are also available automatically via GitHub Actions - look at <https://localremotetw.github.io/TASA-Typeface-Collection/>.
 
 ## Changelog
 
