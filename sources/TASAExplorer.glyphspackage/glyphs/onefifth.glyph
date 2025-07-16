@@ -14,11 +14,11 @@ pos = (280,0);
 ref = fraction;
 },
 {
-pos = (482,0);
+pos = (480,0);
 ref = five.dnom;
 }
 );
-width = 817;
+width = 805;
 },
 {
 layerId = m01;

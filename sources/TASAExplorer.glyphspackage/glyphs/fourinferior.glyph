@@ -11,7 +11,7 @@ pos = (0,-122);
 ref = four.dnom;
 }
 );
-width = 370;
+width = 368;
 },
 {
 layerId = m01;

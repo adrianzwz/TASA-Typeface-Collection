@@ -11,7 +11,7 @@ pos = (0,-122);
 ref = five.dnom;
 }
 );
-width = 335;
+width = 325;
 },
 {
 layerId = m01;

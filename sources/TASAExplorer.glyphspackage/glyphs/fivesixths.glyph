@@ -10,15 +10,15 @@ shapes = (
 ref = five.numr;
 },
 {
-pos = (341,0);
+pos = (331,0);
 ref = fraction;
 },
 {
-pos = (534,0);
+pos = (524,0);
 ref = six.dnom;
 }
 );
-width = 893;
+width = 883;
 },
 {
 layerId = m01;
@@ -27,15 +27,15 @@ shapes = (
 ref = five.numr;
 },
 {
-pos = (323,0);
+pos = (321,0);
 ref = fraction;
 },
 {
-pos = (498,0);
+pos = (496,0);
 ref = six.dnom;
 }
 );
-width = 865;
+width = 863;
 }
 );
 metricLeft = five.numr;
