@@ -13186,6 +13186,10 @@ value = "本地遙控";
 {
 key = manufacturerURL;
 value = "https://localremote.co";
+},
+{
+key = vendorID;
+value = LCRM;
 }
 );
 stems = (

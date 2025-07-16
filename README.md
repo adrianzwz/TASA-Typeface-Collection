@@ -60,6 +60,9 @@ The proof files and QA tests are also available automatically via GitHub Actions
 **12 May 2023. Version 1.001**
 - Removed overlaps on glyphs U+2194, U+2195.
 
+**16 Jul 2025. Version 2.000**
+- Complete redesign of both typefaces.
+
 ## Acknowledgements
 
 Thanks to Kiàn-tiong and GoRong for generously sharing their expertise on implementing and designing glyphs for Taiwanese Romanizations.
