@@ -14,7 +14,7 @@ alignment = -1;
 attr = {
 reversePaths = 1;
 };
-pos = (230,144);
+pos = (249,144);
 ref = four.dnom;
 }
 );
@@ -31,7 +31,7 @@ alignment = -1;
 attr = {
 reversePaths = 1;
 };
-pos = (210,139);
+pos = (212,139);
 ref = four.dnom;
 }
 );

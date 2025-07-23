@@ -1,6 +1,6 @@
 {
 glyphname = comma;
-kernLeft = comma;
+kernLeft = period;
 kernRight = period;
 layers = (
 {

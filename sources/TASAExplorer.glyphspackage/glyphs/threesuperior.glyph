@@ -1,7 +1,7 @@
 {
 glyphname = threesuperior;
-kernLeft = three.numr;
-kernRight = three.numr;
+kernLeft = threesuperior;
+kernRight = threesuperior;
 layers = (
 {
 layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
@@ -11,7 +11,7 @@ pos = (0,398);
 ref = three.dnom;
 }
 );
-width = 340;
+width = 327;
 },
 {
 layerId = m01;
@@ -21,7 +21,7 @@ pos = (0,388);
 ref = three.dnom;
 }
 );
-width = 340;
+width = 335;
 }
 );
 metricLeft = three;

@@ -1,7 +1,7 @@
 {
 glyphname = sixinferior;
-kernLeft = six.dnom;
-kernRight = six.dnom;
+kernLeft = sixinferior;
+kernRight = sixinferior;
 layers = (
 {
 layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
@@ -11,7 +11,7 @@ pos = (0,-122);
 ref = six.dnom;
 }
 );
-width = 389;
+width = 387;
 },
 {
 layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
@@ -21,7 +21,7 @@ pos = (0,-122);
 ref = six.dnom;
 }
 );
-width = 410;
+width = 398;
 }
 );
 unicode = 8326;

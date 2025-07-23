@@ -20,13 +20,7 @@ shapes = (
 ref = O;
 },
 {
-closed = 1;
-nodes = (
-(43,-20,l),
-(97,-64,l),
-(705,700,l),
-(651,744,l)
-);
+ref = slashlongcomb.case;
 }
 );
 userData = {
@@ -64,13 +58,7 @@ shapes = (
 ref = O;
 },
 {
-closed = 1;
-nodes = (
-(22,-8,l),
-(96,-66,l),
-(714,688,l),
-(640,746,l)
-);
+ref = slashlongcomb.case;
 }
 );
 userData = {

@@ -1,7 +1,7 @@
 {
 glyphname = zerosuperior;
-kernLeft = zero.numr;
-kernRight = zero.numr;
+kernLeft = zerosuperior;
+kernRight = zerosuperior;
 layers = (
 {
 guides = (
@@ -35,7 +35,7 @@ pos = (0,388);
 ref = zero.dnom;
 }
 );
-width = 430;
+width = 406;
 }
 );
 unicode = 8304;

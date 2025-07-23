@@ -1,7 +1,7 @@
 {
 glyphname = Tbar;
-kernLeft = Tbar;
-kernRight = Tbar;
+kernLeft = T;
+kernRight = T;
 layers = (
 {
 layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
@@ -12,14 +12,14 @@ ref = T;
 {
 closed = 1;
 nodes = (
-(461,311,l),
-(461,377,l),
-(89,377,l),
-(89,311,l)
+(460,311,l),
+(460,377,l),
+(88,377,l),
+(88,311,l)
 );
 }
 );
-width = 550;
+width = 548;
 },
 {
 layerId = m01;

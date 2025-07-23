@@ -1,0 +1,50 @@
+{
+color = 5;
+glyphname = slashlongcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (392,340);
+}
+);
+layerId = m01;
+name = ExtraBold;
+shapes = (
+{
+closed = 1;
+nodes = (
+(28,10,l),
+(110,-63,l),
+(756,670,l),
+(674,743,l)
+);
+}
+);
+width = 784;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (398,340);
+}
+);
+layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+name = Regular;
+shapes = (
+{
+closed = 1;
+nodes = (
+(38,-20,l),
+(88,-64,l),
+(758,700,l),
+(708,744,l)
+);
+}
+);
+width = 796;
+}
+);
+}

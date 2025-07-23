@@ -14,7 +14,7 @@ pos = (30,0);
 ref = caroncomb.case;
 }
 );
-width = 524;
+width = 528;
 },
 {
 layerId = m01;
@@ -27,7 +27,7 @@ pos = (-6,0);
 ref = caroncomb.case;
 }
 );
-width = 508;
+width = 512;
 }
 );
 unicode = 282;

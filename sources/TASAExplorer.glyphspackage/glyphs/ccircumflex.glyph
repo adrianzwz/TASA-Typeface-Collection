@@ -14,7 +14,7 @@ pos = (30,0);
 ref = circumflexcomb;
 }
 );
-width = 471;
+width = 479;
 },
 {
 layerId = m01;
@@ -27,7 +27,7 @@ pos = (23,0);
 ref = circumflexcomb;
 }
 );
-width = 452;
+width = 456;
 }
 );
 unicode = 265;

@@ -1,6 +1,6 @@
 {
 glyphname = ngrave;
-kernLeft = n;
+kernLeft = n.accent;
 kernRight = n;
 layers = (
 {

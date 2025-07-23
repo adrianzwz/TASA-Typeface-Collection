@@ -11,11 +11,11 @@ ref = L;
 },
 {
 alignment = 1;
-pos = (379,0);
+pos = (392,0);
 ref = periodcentered.loclCAT.case;
 }
 );
-width = 541;
+width = 554;
 },
 {
 layerId = m01;
@@ -25,11 +25,11 @@ ref = L;
 },
 {
 alignment = 1;
-pos = (338,0);
+pos = (330,0);
 ref = periodcentered.loclCAT.case;
 }
 );
-width = 535;
+width = 527;
 }
 );
 unicode = 319;

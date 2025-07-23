@@ -1,0 +1,50 @@
+{
+glyphname = onetenth;
+layers = (
+{
+layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+shapes = (
+{
+ref = one.numr;
+},
+{
+pos = (251,0);
+ref = fraction;
+},
+{
+pos = (451,0);
+ref = one.dnom;
+},
+{
+pos = (715,0);
+ref = zero.dnom;
+}
+);
+width = 1111;
+},
+{
+layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+shapes = (
+{
+ref = one.numr;
+},
+{
+pos = (235,0);
+ref = fraction;
+},
+{
+pos = (435,0);
+ref = one.dnom;
+},
+{
+pos = (688,0);
+ref = zero.dnom;
+}
+);
+width = 1094;
+}
+);
+metricLeft = one.numr;
+metricRight = one.numr;
+unicode = 8530;
+}

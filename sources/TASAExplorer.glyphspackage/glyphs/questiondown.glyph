@@ -8,22 +8,22 @@ layerId = m01;
 shapes = (
 {
 angle = 180;
-pos = (452,510);
+pos = (462,510);
 ref = question;
 }
 );
-width = 452;
+width = 462;
 },
 {
 layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
 shapes = (
 {
 angle = 180;
-pos = (458,500);
+pos = (466,500);
 ref = question;
 }
 );
-width = 458;
+width = 466;
 }
 );
 metricLeft = "=|question";

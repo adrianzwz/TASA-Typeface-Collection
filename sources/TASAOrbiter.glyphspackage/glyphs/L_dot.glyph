@@ -11,11 +11,11 @@ ref = L;
 },
 {
 alignment = 1;
-pos = (374,0);
+pos = (400,0);
 ref = periodcentered.loclCAT.case;
 }
 );
-width = 552;
+width = 578;
 },
 {
 layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
@@ -25,11 +25,11 @@ ref = L;
 },
 {
 alignment = 1;
-pos = (358,0);
+pos = (378,0);
 ref = periodcentered.loclCAT.case;
 }
 );
-width = 580;
+width = 600;
 }
 );
 unicode = 319;

@@ -1,27 +1,27 @@
 {
 glyphname = quotedblright;
-kernLeft = quoteright;
-kernRight = quoteright;
+kernLeft = quote;
+kernRight = quote;
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-pos = (0,549);
+pos = (4,549);
 ref = quotedblbase;
 }
 );
-width = 456;
+width = 465;
 },
 {
 layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
 shapes = (
 {
-pos = (0,586);
+pos = (-14,586);
 ref = quotedblbase;
 }
 );
-width = 368;
+width = 330;
 }
 );
 metricLeft = "=|quotedblleft";

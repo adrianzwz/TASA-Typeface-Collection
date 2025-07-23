@@ -11,7 +11,7 @@ pos = (0,288);
 ref = three.dnom;
 }
 );
-width = 340;
+width = 327;
 },
 {
 layerId = m01;
@@ -21,7 +21,7 @@ pos = (0,278);
 ref = three.dnom;
 }
 );
-width = 340;
+width = 335;
 }
 );
 userData = {

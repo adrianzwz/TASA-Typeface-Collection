@@ -1,7 +1,7 @@
 {
 glyphname = zero.numr.zero;
 kernLeft = zero.numr;
-kernRight = zero.dnom.zero;
+kernRight = zero.numr;
 layers = (
 {
 layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
@@ -21,7 +21,7 @@ pos = (0,278);
 ref = zero.dnom.zero;
 }
 );
-width = 430;
+width = 406;
 }
 );
 metricLeft = zero.numr;

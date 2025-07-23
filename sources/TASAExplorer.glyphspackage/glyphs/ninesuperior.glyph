@@ -1,7 +1,7 @@
 {
 glyphname = ninesuperior;
-kernLeft = nine.numr;
-kernRight = nine.numr;
+kernLeft = ninesuperior;
+kernRight = ninesuperior;
 layers = (
 {
 layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
@@ -11,7 +11,7 @@ pos = (0,398);
 ref = nine.dnom;
 }
 );
-width = 352;
+width = 342;
 },
 {
 layerId = m01;

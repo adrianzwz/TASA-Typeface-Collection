@@ -1,7 +1,7 @@
 {
 glyphname = quotedbl;
-kernLeft = quotedbl;
-kernRight = quotedbl;
+kernLeft = quote;
+kernRight = quote;
 layers = (
 {
 layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
@@ -32,7 +32,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 355;
+width = 311;
 },
 {
 layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";

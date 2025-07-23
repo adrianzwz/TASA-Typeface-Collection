@@ -1,7 +1,7 @@
 {
 glyphname = Eth;
 kernLeft = Istroke;
-kernRight = D;
+kernRight = O;
 layers = (
 {
 layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
@@ -44,16 +44,16 @@ layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
 shapes = (
 {
 alignment = -1;
-pos = (27,0);
+pos = (31,0);
 ref = D;
 },
 {
 closed = 1;
 nodes = (
-(368,297,l),
-(368,407,l),
-(1,407,l),
-(1,297,l)
+(372,297,l),
+(372,407,l),
+(5,407,l),
+(5,297,l)
 );
 }
 );
@@ -73,7 +73,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 719;
+width = 723;
 }
 );
 metricLeft = Hbar;

@@ -1,7 +1,7 @@
 {
 glyphname = quotesingle;
-kernLeft = quotedbl;
-kernRight = quotedbl;
+kernLeft = quote;
+kernRight = quote;
 layers = (
 {
 layerId = m01;
@@ -24,16 +24,17 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(137,456,l),
-(144,700,l),
-(62,700,l),
-(69,456,l)
+(115,456,l),
+(122,700,l),
+(40,700,l),
+(47,456,l)
 );
 }
 );
-width = 206;
+width = 162;
 }
 );
+metricRight = "=|";
 unicode = 39;
 userData = {
 KernOnName = quotesingle;

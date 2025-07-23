@@ -1,7 +1,7 @@
 {
 glyphname = zeroinferior.zero;
-kernLeft = zero.dnom;
-kernRight = zero.dnom;
+kernLeft = zeroinferior;
+kernRight = zeroinferior;
 layers = (
 {
 layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
@@ -21,12 +21,13 @@ pos = (0,-122);
 ref = zero.dnom.zero;
 }
 );
-width = 430;
+width = 406;
 }
 );
 metricLeft = zeroinferior;
 metricRight = zeroinferior;
 userData = {
+KernOnName = zeroinferior.zero;
 KernOnSpecialSpacing = {
 L = superiors;
 R = superiors;

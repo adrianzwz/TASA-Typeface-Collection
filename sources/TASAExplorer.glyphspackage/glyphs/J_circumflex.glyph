@@ -10,11 +10,11 @@ shapes = (
 ref = J;
 },
 {
-pos = (51,0);
-ref = circumflexcomb.case;
+pos = (47,0);
+ref = circumflexcomb.case.narrow;
 }
 );
-width = 422;
+width = 433;
 },
 {
 layerId = m01;
@@ -24,7 +24,7 @@ ref = J;
 },
 {
 pos = (45,0);
-ref = circumflexcomb.case;
+ref = circumflexcomb.case.narrow;
 }
 );
 width = 422;

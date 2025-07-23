@@ -51,13 +51,7 @@ shapes = (
 ref = O;
 },
 {
-closed = 1;
-nodes = (
-(28,10,l),
-(110,-63,l),
-(756,670,l),
-(674,743,l)
-);
+ref = slashlongcomb.case;
 }
 );
 width = 784;
@@ -110,13 +104,7 @@ shapes = (
 ref = O;
 },
 {
-closed = 1;
-nodes = (
-(38,-20,l),
-(88,-64,l),
-(758,700,l),
-(708,744,l)
-);
+ref = slashlongcomb.case;
 }
 );
 width = 796;

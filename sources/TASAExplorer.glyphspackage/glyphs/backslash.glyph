@@ -30,7 +30,6 @@ width = 445;
 );
 unicode = 92;
 userData = {
-KernOnName = backslash;
 KernOnSpecialSpacing = {
 L = "spaced-off";
 R = "spaced-off";

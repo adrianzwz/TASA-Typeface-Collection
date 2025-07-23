@@ -16,7 +16,7 @@ alignment = -1;
 ref = comma;
 }
 );
-width = 451;
+width = 459;
 },
 {
 layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
@@ -85,6 +85,7 @@ metricLeft = comma;
 metricRight = comma;
 unicode = 8222;
 userData = {
+KernOnName = quotedblbase;
 KernOnSpecialSpacing = {
 L = quotes;
 R = quotes;

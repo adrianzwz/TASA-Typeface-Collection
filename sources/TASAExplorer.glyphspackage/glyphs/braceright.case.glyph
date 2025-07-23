@@ -11,7 +11,7 @@ pos = (0,40);
 ref = braceright;
 }
 );
-width = 377;
+width = 397;
 },
 {
 layerId = m01;

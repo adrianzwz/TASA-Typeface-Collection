@@ -70,6 +70,7 @@ metricLeft = "=endash";
 metricRight = "=endash";
 unicode = 8212;
 userData = {
+KernOnName = emdash;
 KernOnSpecialSpacing = {
 L = dashes;
 R = dashes;

@@ -120,7 +120,7 @@ pos = (205,0);
 ref = ogonekcomb;
 }
 );
-width = 648;
+width = 676;
 },
 {
 associatedMasterId = m01;
@@ -136,7 +136,7 @@ pos = (219,0);
 ref = ogonekcomb;
 }
 );
-width = 634;
+width = 644;
 },
 {
 associatedMasterId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";

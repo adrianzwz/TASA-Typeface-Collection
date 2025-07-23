@@ -1,7 +1,7 @@
 {
 glyphname = eightsuperior;
-kernLeft = eight.numr;
-kernRight = eight.numr;
+kernLeft = eightsuperior;
+kernRight = eightsuperior;
 layers = (
 {
 layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
@@ -21,7 +21,7 @@ pos = (0,388);
 ref = eight.dnom;
 }
 );
-width = 418;
+width = 412;
 }
 );
 unicode = 8312;

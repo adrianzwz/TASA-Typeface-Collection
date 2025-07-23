@@ -1,7 +1,7 @@
 {
 glyphname = minute;
-kernLeft = second;
-kernRight = minute;
+kernLeft = quote;
+kernRight = quote;
 layers = (
 {
 layerId = m01;
@@ -24,14 +24,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(110,456,l),
-(198,700,l),
-(114,700,l),
-(41,456,l)
+(99,456,l),
+(187,700,l),
+(103,700,l),
+(30,456,l)
 );
 }
 );
-width = 248;
+width = 217;
 }
 );
 unicode = 8242;

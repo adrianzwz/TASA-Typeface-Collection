@@ -11,7 +11,7 @@ ref = I;
 },
 {
 pos = (-110,0);
-ref = brevecomb.case;
+ref = brevecomb.case.narrow;
 }
 );
 width = 280;
@@ -24,7 +24,7 @@ ref = I;
 },
 {
 pos = (-114,0);
-ref = brevecomb.case;
+ref = brevecomb.case.narrow;
 }
 );
 width = 272;

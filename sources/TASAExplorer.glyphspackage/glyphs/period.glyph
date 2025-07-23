@@ -1,6 +1,6 @@
 {
 glyphname = period;
-kernLeft = comma;
+kernLeft = period;
 kernRight = period;
 layers = (
 {
@@ -9,10 +9,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(32,0,l),
-(200,0,l),
-(200,154,l),
-(32,154,l)
+(36,0,l),
+(204,0,l),
+(204,154,l),
+(36,154,l)
 );
 }
 );
@@ -32,7 +32,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 232;
+width = 240;
 },
 {
 layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";

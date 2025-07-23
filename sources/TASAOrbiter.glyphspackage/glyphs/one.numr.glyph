@@ -11,7 +11,7 @@ pos = (0,288);
 ref = one.dnom;
 }
 );
-width = 274;
+width = 264;
 },
 {
 layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
@@ -21,7 +21,7 @@ pos = (0,278);
 ref = one.dnom;
 }
 );
-width = 287;
+width = 253;
 }
 );
 userData = {

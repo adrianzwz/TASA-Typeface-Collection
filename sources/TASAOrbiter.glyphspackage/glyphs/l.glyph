@@ -110,19 +110,19 @@ width = 247;
 anchors = (
 {
 name = bottom;
-pos = (126,0);
+pos = (125,0);
 },
 {
 name = center;
-pos = (126,350);
+pos = (125,350);
 },
 {
 name = top;
-pos = (126,690);
+pos = (125,690);
 },
 {
 name = topright;
-pos = (206,690);
+pos = (205,690);
 }
 );
 layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
@@ -130,10 +130,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(206,0,l),
-(206,690,l),
-(46,690,l),
-(46,0,l)
+(205,0,l),
+(205,690,l),
+(45,690,l),
+(45,0,l)
 );
 }
 );
@@ -153,7 +153,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 252;
+width = 250;
 },
 {
 anchors = (

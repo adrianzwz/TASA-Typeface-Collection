@@ -25,6 +25,7 @@ width = 376;
 }
 );
 userData = {
+KernOnName = parenleft.case;
 KernOnSpecialSpacing = {
 R = parenthesis;
 };

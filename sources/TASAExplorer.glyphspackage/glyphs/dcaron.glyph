@@ -5,9 +5,9 @@ kernRight = dcaron;
 layers = (
 {
 layerId = m01;
+metricRight = "=+100";
 shapes = (
 {
-alignment = -1;
 ref = d;
 },
 {
@@ -15,10 +15,11 @@ pos = (334,0);
 ref = caroncomb.alt;
 }
 );
-width = 701;
+width = 734;
 },
 {
 layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
+metricRight = "=+50";
 shapes = (
 {
 ref = d;
@@ -28,8 +29,9 @@ pos = (308,0);
 ref = caroncomb.alt;
 }
 );
-width = 638;
+width = 688;
 }
 );
+metricRight = "=+50";
 unicode = 271;
 }

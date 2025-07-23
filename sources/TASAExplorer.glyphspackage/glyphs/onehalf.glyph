@@ -10,15 +10,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (280,0);
+pos = (255,0);
 ref = fraction;
 },
 {
-pos = (480,0);
+pos = (455,0);
 ref = two.dnom;
 }
 );
-width = 811;
+width = 773;
 },
 {
 layerId = m01;
@@ -27,11 +27,11 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (282,0);
+pos = (280,0);
 ref = fraction;
 },
 {
-pos = (482,0);
+pos = (480,0);
 ref = two.dnom;
 }
 );

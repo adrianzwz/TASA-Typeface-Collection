@@ -902,4 +902,7 @@ width = 535;
 );
 metricRight = "=|";
 unicode = 118;
+userData = {
+KernOnName = v;
+};
 }

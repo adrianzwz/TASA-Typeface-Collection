@@ -1,7 +1,7 @@
 {
 glyphname = onesuperior;
-kernLeft = one.numr;
-kernRight = one.numr;
+kernLeft = onesuperior;
+kernRight = onesuperior;
 layers = (
 {
 layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
@@ -11,7 +11,7 @@ pos = (0,398);
 ref = one.dnom;
 }
 );
-width = 274;
+width = 264;
 },
 {
 layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
@@ -21,13 +21,14 @@ pos = (0,388);
 ref = one.dnom;
 }
 );
-width = 287;
+width = 253;
 }
 );
 metricLeft = one;
 metricRight = one;
 unicode = 185;
 userData = {
+KernOnName = onesuperior;
 KernOnSpecialSpacing = {
 L = superiors;
 R = superiors;

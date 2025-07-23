@@ -10,15 +10,15 @@ shapes = (
 ref = seven.numr;
 },
 {
-pos = (307,0);
+pos = (281,0);
 ref = fraction;
 },
 {
-pos = (507,0);
+pos = (463,0);
 ref = eight.dnom;
 }
 );
-width = 899;
+width = 855;
 },
 {
 layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
@@ -27,15 +27,15 @@ shapes = (
 ref = seven.numr;
 },
 {
-pos = (276,0);
+pos = (290,0);
 ref = fraction;
 },
 {
-pos = (476,0);
+pos = (478,0);
 ref = eight.dnom;
 }
 );
-width = 894;
+width = 890;
 }
 );
 metricLeft = seven.numr;

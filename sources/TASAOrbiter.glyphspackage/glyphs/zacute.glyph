@@ -39,6 +39,7 @@ shapes = (
 ref = z;
 },
 {
+pos = (2,0);
 ref = acutecomb;
 }
 );
@@ -58,7 +59,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 504;
+width = 506;
 }
 );
 unicode = 378;

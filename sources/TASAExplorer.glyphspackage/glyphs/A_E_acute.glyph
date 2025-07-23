@@ -10,11 +10,11 @@ shapes = (
 ref = AE;
 },
 {
-pos = (303,0);
+pos = (297,0);
 ref = acutecomb.case;
 }
 );
-width = 881;
+width = 879;
 },
 {
 layerId = m01;
@@ -27,7 +27,7 @@ pos = (314,0);
 ref = acutecomb.case;
 }
 );
-width = 898;
+width = 902;
 }
 );
 unicode = 508;

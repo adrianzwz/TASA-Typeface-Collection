@@ -1,7 +1,7 @@
 {
 glyphname = abreve;
 kernLeft = a.accent;
-kernRight = a.accent;
+kernRight = n.accent;
 layers = (
 {
 layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";

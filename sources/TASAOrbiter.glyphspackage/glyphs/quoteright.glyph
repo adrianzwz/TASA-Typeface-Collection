@@ -1,14 +1,14 @@
 {
 glyphname = quoteright;
-kernLeft = quoteright;
-kernRight = quoteright;
+kernLeft = quote;
+kernRight = quote;
 layers = (
 {
 layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
 shapes = (
 {
 alignment = -1;
-pos = (0,586);
+pos = (-12,586);
 ref = quotesinglbase;
 }
 );
@@ -28,7 +28,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 212;
+width = 186;
 },
 {
 layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
@@ -62,6 +62,7 @@ metricLeft = "=|quotedblleft";
 metricRight = "=|quotedblleft";
 unicode = 8217;
 userData = {
+KernOnName = quoteright;
 KernOnSpecialSpacing = {
 L = quotes;
 R = quotes;

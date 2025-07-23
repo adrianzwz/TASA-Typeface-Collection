@@ -11,7 +11,7 @@ ref = idotless;
 },
 {
 pos = (-130,0);
-ref = brevecomb;
+ref = brevecomb.narrow;
 }
 );
 width = 240;
@@ -24,7 +24,7 @@ ref = idotless;
 },
 {
 pos = (-125,0);
-ref = brevecomb;
+ref = brevecomb.narrow;
 }
 );
 width = 250;

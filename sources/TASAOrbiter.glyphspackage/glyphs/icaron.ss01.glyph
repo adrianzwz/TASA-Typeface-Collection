@@ -1,7 +1,7 @@
 {
 color = 3;
 glyphname = icaron.ss01;
-kernLeft = igrave.ss01;
+kernLeft = iaccent.ss01;
 kernRight = i.accent;
 layers = (
 {
@@ -12,7 +12,7 @@ ref = idotless.ss01;
 },
 {
 pos = (-80,0);
-ref = caroncomb;
+ref = caroncomb.narrow;
 }
 );
 width = 290;
@@ -25,7 +25,7 @@ ref = idotless.ss01;
 },
 {
 pos = (-83,0);
-ref = caroncomb;
+ref = caroncomb.narrow;
 }
 );
 width = 292;

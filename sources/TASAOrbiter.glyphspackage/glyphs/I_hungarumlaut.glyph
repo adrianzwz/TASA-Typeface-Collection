@@ -11,7 +11,7 @@ ref = I;
 },
 {
 pos = (-115,0);
-ref = hungarumlautcomb.case;
+ref = hungarumlautcomb.case.narrow;
 }
 );
 width = 270;
@@ -24,7 +24,7 @@ ref = I;
 },
 {
 pos = (-119,0);
-ref = hungarumlautcomb.case;
+ref = hungarumlautcomb.case.narrow;
 }
 );
 width = 262;

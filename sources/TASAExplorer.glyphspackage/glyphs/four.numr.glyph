@@ -11,7 +11,7 @@ pos = (0,288);
 ref = four.dnom;
 }
 );
-width = 368;
+width = 342;
 },
 {
 layerId = m01;
@@ -21,7 +21,7 @@ pos = (0,278);
 ref = four.dnom;
 }
 );
-width = 374;
+width = 366;
 }
 );
 userData = {

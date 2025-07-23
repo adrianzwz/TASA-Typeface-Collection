@@ -1,0 +1,48 @@
+{
+color = 5;
+glyphname = slashlongcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (374,340);
+}
+);
+layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+shapes = (
+{
+closed = 1;
+nodes = (
+(43,-20,l),
+(97,-64,l),
+(705,700,l),
+(651,744,l)
+);
+}
+);
+width = 748;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (368,340);
+}
+);
+layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(22,-8,l),
+(96,-66,l),
+(714,688,l),
+(640,746,l)
+);
+}
+);
+width = 736;
+}
+);
+}

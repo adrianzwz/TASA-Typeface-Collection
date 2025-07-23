@@ -1,7 +1,7 @@
 {
 glyphname = Dcroat;
 kernLeft = Istroke;
-kernRight = D;
+kernRight = O;
 layers = (
 {
 layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
@@ -51,7 +51,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 719;
+width = 723;
 }
 );
 unicode = 272;

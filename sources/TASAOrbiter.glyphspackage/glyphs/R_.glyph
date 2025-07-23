@@ -841,7 +841,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 657;
+width = 674;
 },
 {
 anchors = (
@@ -1001,7 +1001,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 653;
+width = 656;
 }
 );
 metricLeft = "=H";

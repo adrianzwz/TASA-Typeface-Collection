@@ -11,7 +11,7 @@ ref = idotless;
 },
 {
 pos = (-125,0);
-ref = circumflexcomb;
+ref = circumflexcomb.narrow;
 }
 );
 width = 250;
@@ -24,7 +24,7 @@ ref = idotless;
 },
 {
 pos = (-120,0);
-ref = circumflexcomb;
+ref = circumflexcomb.narrow;
 }
 );
 width = 260;

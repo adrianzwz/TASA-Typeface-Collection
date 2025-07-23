@@ -11,7 +11,7 @@ pos = (0,288);
 ref = nine.dnom;
 }
 );
-width = 352;
+width = 342;
 },
 {
 layerId = m01;

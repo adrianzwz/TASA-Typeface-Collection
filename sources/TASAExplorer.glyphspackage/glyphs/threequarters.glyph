@@ -10,15 +10,15 @@ shapes = (
 ref = three.numr;
 },
 {
-pos = (340,0);
+pos = (327,0);
 ref = fraction;
 },
 {
-pos = (488,0);
+pos = (477,0);
 ref = four.dnom;
 }
 );
-width = 856;
+width = 819;
 },
 {
 layerId = m01;
@@ -27,15 +27,15 @@ shapes = (
 ref = three.numr;
 },
 {
-pos = (340,0);
+pos = (335,0);
 ref = fraction;
 },
 {
-pos = (478,0);
+pos = (495,0);
 ref = four.dnom;
 }
 );
-width = 852;
+width = 861;
 }
 );
 unicode = 190;

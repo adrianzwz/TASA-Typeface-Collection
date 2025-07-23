@@ -10,11 +10,11 @@ shapes = (
 ref = A;
 },
 {
-pos = (66,0);
+pos = (54,0);
 ref = verticallineabovecomb.case;
 }
 );
-width = 634;
+width = 610;
 },
 {
 layerId = m01;
@@ -23,11 +23,11 @@ shapes = (
 ref = A;
 },
 {
-pos = (59,0);
+pos = (63,0);
 ref = verticallineabovecomb.case;
 }
 );
-width = 625;
+width = 633;
 }
 );
 userData = {

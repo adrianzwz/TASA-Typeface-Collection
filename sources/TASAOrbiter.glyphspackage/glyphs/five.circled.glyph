@@ -29,7 +29,7 @@ ref = _part.circle;
 },
 {
 alignment = -1;
-pos = (268,144);
+pos = (270,144);
 ref = five.dnom;
 }
 );
@@ -43,7 +43,7 @@ ref = _part.circle;
 },
 {
 alignment = -1;
-pos = (226,139);
+pos = (228,139);
 ref = five.dnom;
 }
 );

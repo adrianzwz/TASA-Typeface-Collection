@@ -1,7 +1,7 @@
 {
 color = 3;
 glyphname = ihungarumlaut.ss01;
-kernLeft = ihungarumlaut.ss01;
+kernLeft = i.ss01;
 kernRight = i.accent;
 layers = (
 {
@@ -12,7 +12,7 @@ ref = idotless.ss01;
 },
 {
 pos = (-80,0);
-ref = hungarumlautcomb;
+ref = hungarumlautcomb.narrow;
 }
 );
 width = 290;
@@ -25,7 +25,7 @@ ref = idotless.ss01;
 },
 {
 pos = (-83,0);
-ref = hungarumlautcomb;
+ref = hungarumlautcomb.narrow;
 }
 );
 width = 292;

@@ -1,29 +1,29 @@
 {
 glyphname = quoteleft;
-kernLeft = quoteleft;
-kernRight = quoteleft;
+kernLeft = quote;
+kernRight = quote;
 layers = (
 {
 layerId = m01;
 shapes = (
 {
 angle = 180;
-pos = (237,540);
+pos = (242,540);
 ref = quotesinglbase;
 }
 );
-width = 237;
+width = 246;
 },
 {
 layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
 shapes = (
 {
 angle = 180;
-pos = (216,575);
+pos = (192,575);
 ref = quotesinglbase;
 }
 );
-width = 216;
+width = 178;
 }
 );
 metricLeft = quotedblleft;

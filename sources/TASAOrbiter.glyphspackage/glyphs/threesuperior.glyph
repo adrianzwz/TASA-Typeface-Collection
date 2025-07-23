@@ -1,7 +1,7 @@
 {
 glyphname = threesuperior;
-kernLeft = three.numr;
-kernRight = three.numr;
+kernLeft = threesuperior;
+kernRight = threesuperior;
 layers = (
 {
 layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
@@ -21,13 +21,14 @@ pos = (0,388);
 ref = three.dnom;
 }
 );
-width = 409;
+width = 393;
 }
 );
 metricLeft = three;
 metricRight = three;
 unicode = 179;
 userData = {
+KernOnName = threesuperior;
 KernOnSpecialSpacing = {
 L = superiors;
 R = superiors;

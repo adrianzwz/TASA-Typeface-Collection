@@ -10,11 +10,11 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (280,0);
+pos = (255,0);
 ref = fraction;
 }
 );
-width = 650;
+width = 455;
 },
 {
 layerId = m01;
@@ -23,14 +23,13 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (282,0);
+pos = (280,0);
 ref = fraction;
 }
 );
-width = 652;
+width = 480;
 }
 );
 metricLeft = one.numr;
-metricRight = "=+170";
 unicode = 8543;
 }

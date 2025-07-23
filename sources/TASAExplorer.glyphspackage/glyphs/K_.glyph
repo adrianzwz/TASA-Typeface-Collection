@@ -54,7 +54,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 616;
+width = 620;
 },
 {
 associatedMasterId = m01;
@@ -143,7 +143,7 @@ nodes = (
 );
 }
 );
-width = 593;
+width = 597;
 },
 {
 anchors = (

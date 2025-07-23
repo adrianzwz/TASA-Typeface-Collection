@@ -36,7 +36,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 553;
+width = 547;
 },
 {
 associatedMasterId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
@@ -277,4 +277,7 @@ width = 573;
 }
 );
 unicode = 55;
+userData = {
+KernOnName = seven;
+};
 }

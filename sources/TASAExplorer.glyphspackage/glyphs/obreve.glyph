@@ -31,7 +31,4 @@ width = 610;
 }
 );
 unicode = 335;
-userData = {
-KernOnName = obreve;
-};
 }

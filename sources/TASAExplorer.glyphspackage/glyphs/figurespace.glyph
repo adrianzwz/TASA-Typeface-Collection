@@ -5,11 +5,11 @@ kernRight = figurespace;
 layers = (
 {
 layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
-width = 670;
+width = 676;
 },
 {
 layerId = m01;
-width = 670;
+width = 678;
 }
 );
 metricWidth = zero;

@@ -54,7 +54,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 619;
+width = 628;
 },
 {
 anchors = (
@@ -337,7 +337,6 @@ width = 623;
 }
 );
 metricLeft = "=H";
-metricRight = "=V-5";
 unicode = 75;
 userData = {
 KernOnName = K;

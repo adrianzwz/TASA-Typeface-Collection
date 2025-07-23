@@ -1,7 +1,7 @@
 {
 glyphname = threeinferior;
-kernLeft = three.dnom;
-kernRight = three.dnom;
+kernLeft = threeinferior;
+kernRight = threeinferior;
 layers = (
 {
 layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
@@ -21,7 +21,7 @@ pos = (0,-122);
 ref = three.dnom;
 }
 );
-width = 409;
+width = 393;
 }
 );
 unicode = 8323;

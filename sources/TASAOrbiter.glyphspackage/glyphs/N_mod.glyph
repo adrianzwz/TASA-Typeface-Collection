@@ -81,7 +81,7 @@ nodes = (
 );
 }
 );
-width = 491;
+width = 448;
 },
 {
 associatedMasterId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
@@ -224,6 +224,7 @@ scale = (0.6,0.6);
 width = 454;
 }
 );
+metricRight = "=|";
 unicode = 7482;
 userData = {
 KernOnName = Nmod;

@@ -632,6 +632,7 @@ width = 580;
 );
 unicode = 63;
 userData = {
+KernOnName = question;
 KernOnSpecialSpacing = {
 L = "spaced-off";
 };

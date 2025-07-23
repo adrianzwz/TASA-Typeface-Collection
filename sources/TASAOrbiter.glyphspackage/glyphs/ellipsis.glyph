@@ -1,23 +1,23 @@
 {
 glyphname = ellipsis;
-kernLeft = ellipsis;
-kernRight = ellipsis;
+kernLeft = period;
+kernRight = period;
 layers = (
 {
 layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
 shapes = (
 {
-alignment = -1;
-pos = (456,0);
+alignment = 1;
 ref = period;
 },
 {
-alignment = -1;
-pos = (228,0);
+alignment = 1;
+pos = (254,0);
 ref = period;
 },
 {
-alignment = -1;
+alignment = 1;
+pos = (508,0);
 ref = period;
 }
 );
@@ -37,24 +37,23 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 684;
+width = 736;
 },
 {
 layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
 shapes = (
 {
-alignment = -1;
-pos = (484,0);
+alignment = 1;
 ref = period;
 },
 {
-alignment = -1;
+alignment = 1;
 pos = (244,0);
 ref = period;
 },
 {
-alignment = -1;
-pos = (4,0);
+alignment = 1;
+pos = (488,0);
 ref = period;
 }
 );

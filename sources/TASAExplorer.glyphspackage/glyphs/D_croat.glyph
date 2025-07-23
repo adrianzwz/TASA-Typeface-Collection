@@ -1,6 +1,6 @@
 {
 glyphname = Dcroat;
-kernLeft = Eth;
+kernLeft = Istroke;
 kernRight = O;
 layers = (
 {
@@ -19,7 +19,7 @@ shapes = (
 ref = Eth;
 }
 );
-width = 715;
+width = 724;
 }
 );
 unicode = 272;

@@ -15,7 +15,7 @@ attr = {
 identifier = ID0x17b01dfc0;
 reversePaths = "1";
 };
-pos = (242,144);
+pos = (253,144);
 ref = zero.dnom.zero;
 }
 );
@@ -33,7 +33,7 @@ attr = {
 identifier = ID0x17b07e8a0;
 reversePaths = "1";
 };
-pos = (187,139);
+pos = (197,139);
 ref = zero.dnom.zero;
 }
 );

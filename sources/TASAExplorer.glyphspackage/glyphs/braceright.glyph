@@ -20,12 +20,12 @@ layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
 shapes = (
 {
 alignment = 1;
-pos = (377,0);
+pos = (397,0);
 ref = braceleft;
 scale = (-1,1);
 }
 );
-width = 377;
+width = 397;
 }
 );
 unicode = 125;

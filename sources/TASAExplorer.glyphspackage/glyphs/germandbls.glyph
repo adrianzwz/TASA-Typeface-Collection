@@ -1,6 +1,6 @@
 {
 glyphname = germandbls;
-kernLeft = n;
+kernLeft = germandbls;
 kernRight = germandbls;
 layers = (
 {
@@ -158,7 +158,7 @@ nodes = (
 );
 }
 );
-width = 603;
+width = 600;
 },
 {
 associatedMasterId = m01;

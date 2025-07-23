@@ -8,12 +8,12 @@ layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
 shapes = (
 {
 alignment = -1;
-pos = (8,0);
+pos = (6,0);
 ref = comma;
 },
 {
 alignment = -1;
-pos = (8,386);
+pos = (6,386);
 ref = period;
 }
 );
@@ -33,7 +33,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 244;
+width = 240;
 },
 {
 layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";

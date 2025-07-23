@@ -1,7 +1,7 @@
 {
 glyphname = sevensuperior;
-kernLeft = seven.numr;
-kernRight = seven.numr;
+kernLeft = sevensuperior;
+kernRight = sevensuperior;
 layers = (
 {
 layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
@@ -21,7 +21,7 @@ pos = (0,388);
 ref = seven.dnom;
 }
 );
-width = 370;
+width = 364;
 }
 );
 unicode = 8311;

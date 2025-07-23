@@ -27,7 +27,7 @@ pos = (49,0);
 ref = caroncomb.case;
 }
 );
-width = 590;
+width = 596;
 }
 );
 unicode = 344;

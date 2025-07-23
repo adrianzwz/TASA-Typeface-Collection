@@ -11,7 +11,7 @@ ref = idotless;
 },
 {
 pos = (-130,0);
-ref = circumflexcomb;
+ref = circumflexcomb.narrow;
 }
 );
 userData = {
@@ -40,7 +40,7 @@ ref = idotless;
 },
 {
 pos = (-125,0);
-ref = circumflexcomb;
+ref = circumflexcomb.narrow;
 }
 );
 userData = {

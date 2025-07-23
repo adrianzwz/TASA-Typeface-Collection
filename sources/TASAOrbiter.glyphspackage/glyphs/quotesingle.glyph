@@ -1,7 +1,7 @@
 {
 glyphname = quotesingle;
-kernLeft = quotedbl;
-kernRight = quotedbl;
+kernLeft = quote;
+kernRight = quote;
 layers = (
 {
 layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
@@ -9,10 +9,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(137,456,l),
-(144,700,l),
-(62,700,l),
-(69,456,l)
+(115,456,l),
+(122,700,l),
+(40,700,l),
+(47,456,l)
 );
 }
 );
@@ -32,7 +32,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 206;
+width = 162;
 },
 {
 layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
@@ -100,6 +100,7 @@ com.hugojourdan.ColorFlow = {
 width = 206;
 }
 );
+metricRight = "=|";
 unicode = 39;
 userData = {
 KernOnName = quotesingle;

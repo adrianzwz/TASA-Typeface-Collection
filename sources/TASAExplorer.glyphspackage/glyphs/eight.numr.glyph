@@ -11,7 +11,7 @@ pos = (0,288);
 ref = eight.dnom;
 }
 );
-width = 360;
+width = 350;
 },
 {
 layerId = m01;
@@ -21,7 +21,7 @@ pos = (0,278);
 ref = eight.dnom;
 }
 );
-width = 374;
+width = 382;
 }
 );
 userData = {

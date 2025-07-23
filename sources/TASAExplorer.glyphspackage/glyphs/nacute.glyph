@@ -1,7 +1,7 @@
 {
 glyphname = nacute;
 kernLeft = n;
-kernRight = n;
+kernRight = n.accent;
 layers = (
 {
 layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";

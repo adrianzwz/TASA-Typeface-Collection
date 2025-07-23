@@ -72,7 +72,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 452;
+width = 456;
 },
 {
 anchors = (
@@ -126,7 +126,7 @@ nodes = (
 );
 }
 );
-width = 471;
+width = 479;
 },
 {
 anchors = (

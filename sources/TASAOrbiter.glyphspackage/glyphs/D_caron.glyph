@@ -1,7 +1,7 @@
 {
 glyphname = Dcaron;
 kernLeft = H;
-kernRight = D;
+kernRight = O;
 layers = (
 {
 layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";

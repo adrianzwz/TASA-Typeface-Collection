@@ -25,11 +25,11 @@ ref = l;
 },
 {
 alignment = 1;
-pos = (252,0);
+pos = (250,0);
 ref = periodcentered.loclCAT;
 }
 );
-width = 420;
+width = 418;
 }
 );
 metricLeft = "=l";

@@ -6,11 +6,11 @@
 [E-Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flocalremotetw%2FTASA-Typeface-Collection%2Fgh-pages%2Fbadges%2FTASAExplorer%2Foverall.json&label=FontBakery%20QA%20(Explorer)
 [O-Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flocalremotetw%2FTASA-Typeface-Collection%2Fgh-pages%2Fbadges%2FTASAExplorer%2Foverall.json&label=FontBakery%20QA%20(Orbiter)
 
-The TASA Typeface Collection is a suite of two typefaces, TASA Explorer and TASA Orbiter, originally designed for [Taiwan Space Agency(TASA)](https://www.tasa.org.tw/en-US), and released under the SIL Open Font License.
+The TASA Typeface Collection is a suite of two typefaces, TASA Explorer and TASA Orbiter, two typefaces originally commissioned by the [Taiwan Space Agency (TASA)](https://www.tasa.org.tw/en-US) as part of its institutional rebrand, and released under the SIL Open Font License.
 
 TASA Explorer is a geometric sans-serif designed to echo the adventurous spirit of space exploration. Its vertically cut terminals and sharp-angled corners lend a bold, assertive character that commands attention. Subtle contrast between thick and thin strokes adds visual fluidity, preventing the geometric structure from feeling rigid.
 
-TASA Orbiter takes a more pragmatic approach, reflecting the technical precision required in space operations. The neo-grotesque design is built from a systematic vocabulary of recurring shapes, featuring slightly squarish counters and right-angled turns.
+TASA Orbiter takes a more pragmatic approach, reflecting the technical precision of space operations. The neo-grotesque design is built from a systematic vocabulary of recurring shapes, featuring slightly squarish counters and right-angled turns.
 
 Both typefaces are available in 5 weights (Regular, Medium, SemiBold, Bold, ExtraBold) and can be used as either static font files or variable fonts with a weight axis.
 
@@ -19,20 +19,20 @@ Both typefaces are available in 5 weights (Regular, Medium, SemiBold, Bold, Extr
 ### version 1 (2023) –– Original Release
 The original TASA typefaces were designed between 2022–2023 as part of the comprehensive [rebrand project](https://www.localremote.co/projects/taiwan-space-agency) for the Taiwan Space Agency.
 
-**TASA Explorer** (v1) was released with 5 weights, designed only for display use. The design featured an extremely large x-height with minimal optical adjustments for maximum impact at large sizes.
+**TASA Explorer** (v1) featured five weights and was designed exclusively for display use. With an extremely large x-height and minimal optical corrections, it was optimized for high-impact performance at large sizes.
 
-**TASA Orbiter** (v1) had a more complex system of 13 styles across 3 optical sizes. Text and Deck had 4 weights, and Display had 5 weights.
+**TASA Orbiter** (v1) was released in 13 styles across three optical sizes: Text and Deck each had four weights, while Display included five weights.
 
 Files of version 1 can still be found in the [releases](https://github.com/localremotetw/TASA-Typeface-Collection/releases/tag/v1.001) section, but are no longer maintained.
 
 ### version 2 (2025) –– Redesign
-In 2025, both typefaces received a complete redesign focused on preserving their design characteristics while significantly improving drawing quality and readability in small sizes.
+In 2025, both typefaces were updated with a focus on preserving their core design characteristics while enhancing drawing precision and readability.
 
-**TASA Explorer** was redrawn with slightly lower x-height and smoother letterforms. The spacing is more relaxed and texture is more even, improving performance at text sizes, making it suitable for both display and text applications.
+**TASA Explorer** introduces a slightly reduced x-height, smoother letterforms, and more relaxed spacing, resulting in a more even texture across text blocks. It is now suitable for both display and text applications.
 
-**TASA Orbiter** was simplified, with the optical size variants removed, reducing styles from 13 to 5 weights, in line with Explorer. The new design is based on the previous "deck" optical size, with improved drawing and spacing.
+**TASA Orbiter** consolidated its optical size variants, reducing the total styles from 13 to five weights—streamlining the family in line with TASA Explorer. The new design is based on the former “Deck” optical size, with refined forms and spacing optimized for flexible use.
 
-Both typefaces now support the Google Fonts Core Latin character set, plus additional glyphs to support Taiwanese Romanizations ([Tâi-lô](https://en.wikipedia.org/wiki/T%C3%A2i-u%C3%A2n_L%C3%B4-m%C3%A1-j%C4%AB_Phing-im_Hong-%C3%A0n) & [POJ](https://en.wikipedia.org/wiki/Pe%CC%8Dh-%C5%8De-j%C4%AB)).
+The fonts now support the Google Fonts Core Latin character set, along with additional glyphs for Taiwanese Romanizations ([Tâi-lô](https://en.wikipedia.org/wiki/T%C3%A2i-u%C3%A2n_L%C3%B4-m%C3%A1-j%C4%AB_Phing-im_Hong-%C3%A0n) & [POJ](https://en.wikipedia.org/wiki/Pe%CC%8Dh-%C5%8De-j%C4%AB)).
 
 ![Sample Image](documentation/002.png)
 ![Sample Image](documentation/003.png)
@@ -63,6 +63,11 @@ The proof files and QA tests are also available automatically via GitHub Actions
 **16 Jul 2025. Version 2.000**
 - Complete redesign of both typefaces.
 
+**23 Jul 2025. Version 2.010**
+- Overall kerning improvements.
+- Resolved uneven symmetric kerning and overkerned pairs.
+- Consistent kerning in small figures.
+
 ## Acknowledgements
 
 Thanks to Kiàn-tiong and GoRong for generously sharing their expertise on implementing and designing glyphs for Taiwanese Romanizations.
@@ -80,7 +85,7 @@ Thanks to all who provided feedback and encouragements throughout the design pro
 **Local Remote** is a design studio based in Taiwan, working with brands at the forefront of change, through means of experimental, experiential, and multi-sensory storytelling across virtual & physical presence.  
 [contact@localremote.co](mailto:contact@localremote.co) / <https://localremote.co/>
 
-**Weizhong Zhang** is an independent type & graphic designer based in Taiwan.  
+**Weizhong Zhang** is a freelance type and graphic designer based in Taipei, Taiwan. His practice centers on bilingual typography, exploring the relationship between Latin and Hanzi scripts. He works with studios and clients to create custom typefaces, logotypes, and lettering projects.  
 [adrianzwz@outlook.com](mailto:adrianzwz@outlook.com) / <https://azwz.work/>
 
 ## License

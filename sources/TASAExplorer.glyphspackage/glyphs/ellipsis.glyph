@@ -1,7 +1,7 @@
 {
 glyphname = ellipsis;
-kernLeft = ellipsis;
-kernRight = ellipsis;
+kernLeft = period;
+kernRight = period;
 layers = (
 {
 guides = (
@@ -13,22 +13,21 @@ showMeasurement = 1;
 layerId = m01;
 shapes = (
 {
-alignment = -1;
-pos = (484,0);
+alignment = 1;
 ref = period;
 },
 {
-alignment = -1;
-pos = (244,0);
+alignment = 1;
+pos = (250,0);
 ref = period;
 },
 {
-alignment = -1;
-pos = (4,0);
+alignment = 1;
+pos = (500,0);
 ref = period;
 }
 );
-width = 720;
+width = 740;
 },
 {
 guides = (
@@ -40,23 +39,23 @@ showMeasurement = 1;
 layerId = "8DAFC702-8226-41F4-8BBE-2050DDC1B01E";
 shapes = (
 {
-alignment = -1;
-pos = (482,0);
+alignment = 1;
 ref = period;
 },
 {
-alignment = -1;
-pos = (246,0);
+alignment = 1;
+pos = (250,0);
 ref = period;
 },
 {
-alignment = -1;
-pos = (10,0);
+alignment = 1;
+pos = (500,0);
 ref = period;
 }
 );
 width = 716;
 }
 );
+metricRight = "=|";
 unicode = 8230;
 }
