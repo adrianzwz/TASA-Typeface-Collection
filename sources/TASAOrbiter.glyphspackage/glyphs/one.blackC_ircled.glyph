@@ -7,15 +7,15 @@ layers = (
 layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
 shapes = (
 {
-ref = _part.blackCircle;
-},
-{
 alignment = -1;
 attr = {
 reversePaths = 1;
 };
 pos = (318,144);
 ref = one.dnom;
+},
+{
+ref = _part.blackCircle;
 }
 );
 width = 912;
@@ -24,15 +24,15 @@ width = 912;
 layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
 shapes = (
 {
-ref = _part.blackCircle;
-},
-{
 alignment = -1;
 attr = {
 reversePaths = 1;
 };
 pos = (284,139);
 ref = one.dnom;
+},
+{
+ref = _part.blackCircle;
 }
 );
 width = 852;
