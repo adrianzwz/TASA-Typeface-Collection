@@ -68,6 +68,9 @@ The proof files and QA tests are also available automatically via GitHub Actions
 - Resolved uneven symmetric kerning and overkerned pairs.
 - Consistent kerning in small figures.
 
+**24 Jul 2025. Version 2.011**
+- Decomposed the components of black circled figures.
+
 ## Acknowledgements
 
 Thanks to Kiàn-tiong and GoRong for generously sharing their expertise on implementing and designing glyphs for Taiwanese Romanizations.
