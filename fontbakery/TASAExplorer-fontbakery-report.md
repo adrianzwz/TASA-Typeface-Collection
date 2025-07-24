@@ -66,24 +66,24 @@ be served. You can solve this by either manually adding additional
 subset declarations to METADATA.pb, or by editing the glyphset
 definitions.</p>
 <ul>
-<li>U+02D8 BREVE: try adding one of: yi, canadian-aboriginal</li>
-<li>U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal</li>
-<li>U+02DB OGONEK: try adding one of: yi, canadian-aboriginal</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, coptic, tifinagh</li>
-<li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: coptic, duployan, malayalam, todhri, old-permic, syriac, tai-le, tifinagh, hebrew, canadian-aboriginal, math</li>
+<li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
+<li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
+<li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, tifinagh, cherokee</li>
+<li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: malayalam, math, old-permic, coptic, duployan, canadian-aboriginal, todhri, tifinagh, syriac, hebrew, tai-le</li>
 <li>U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan</li>
-<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
-<li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
+<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
+<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: try adding sunuwar</li>
 <li>U+0312 COMBINING TURNED COMMA ABOVE: try adding math</li>
 <li>U+0326 COMBINING COMMA BELOW: try adding math</li>
 <li>U+0327 COMBINING CEDILLA: try adding math</li>
 <li>U+0328 COMBINING OGONEK: not included in any glyphset definition</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: gothic, sunuwar, thai, cherokee, caucasian-albanian, syriac, tifinagh</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: caucasian-albanian, thai, gothic, sunuwar, cherokee, syriac, tifinagh</li>
 <li>U+0338 COMBINING LONG SOLIDUS OVERLAY: try adding math</li>
 <li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
-<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: math, elbasan, greek</li>
+<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: elbasan, math, greek</li>
 <li>U+03BC GREEK SMALL LETTER MU: try adding one of: math, greek</li>
 <li>U+03C0 GREEK SMALL LETTER PI: try adding one of: math, greek, yi</li>
 <li>U+2003 EM SPACE: try adding nushu</li>
@@ -154,15 +154,15 @@ definitions.</p>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
 <li>U+2266 LESS-THAN OVER EQUAL TO: try adding math</li>
 <li>U+2267 GREATER-THAN OVER EQUAL TO: try adding math</li>
-<li>U+2460 CIRCLED DIGIT ONE: try adding one of: symbols, yi, mongolian</li>
-<li>U+2461 CIRCLED DIGIT TWO: try adding one of: symbols, yi, mongolian</li>
-<li>U+2462 CIRCLED DIGIT THREE: try adding one of: symbols, yi, mongolian</li>
-<li>U+2463 CIRCLED DIGIT FOUR: try adding one of: symbols, yi, mongolian</li>
-<li>U+2464 CIRCLED DIGIT FIVE: try adding one of: symbols, yi, mongolian</li>
-<li>U+2465 CIRCLED DIGIT SIX: try adding one of: symbols, yi, mongolian</li>
-<li>U+2466 CIRCLED DIGIT SEVEN: try adding one of: symbols, yi, mongolian</li>
-<li>U+2467 CIRCLED DIGIT EIGHT: try adding one of: symbols, yi, mongolian</li>
-<li>U+2468 CIRCLED DIGIT NINE: try adding one of: symbols, yi, mongolian</li>
+<li>U+2460 CIRCLED DIGIT ONE: try adding one of: mongolian, symbols, yi</li>
+<li>U+2461 CIRCLED DIGIT TWO: try adding one of: mongolian, symbols, yi</li>
+<li>U+2462 CIRCLED DIGIT THREE: try adding one of: mongolian, symbols, yi</li>
+<li>U+2463 CIRCLED DIGIT FOUR: try adding one of: mongolian, symbols, yi</li>
+<li>U+2464 CIRCLED DIGIT FIVE: try adding one of: mongolian, symbols, yi</li>
+<li>U+2465 CIRCLED DIGIT SIX: try adding one of: mongolian, symbols, yi</li>
+<li>U+2466 CIRCLED DIGIT SEVEN: try adding one of: mongolian, symbols, yi</li>
+<li>U+2467 CIRCLED DIGIT EIGHT: try adding one of: mongolian, symbols, yi</li>
+<li>U+2468 CIRCLED DIGIT NINE: try adding one of: mongolian, symbols, yi</li>
 <li>U+24EA CIRCLED DIGIT ZERO: try adding symbols</li>
 <li>U+24FF NEGATIVE CIRCLED DIGIT ZERO: try adding symbols</li>
 <li>U+25A0 BLACK SQUARE: try adding symbols</li>
@@ -181,7 +181,7 @@ definitions.</p>
 <li>U+25C7 WHITE DIAMOND: try adding symbols</li>
 <li>U+25CA LOZENGE: try adding one of: math, symbols</li>
 <li>U+25CB WHITE CIRCLE: try adding symbols</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: siddham, marchen, dogra, gurmukhi, telugu, kannada, gujarati, miao, bassa-vah, chakma, khojki, cham, rejang, javanese, sinhala, sogdian, khudawadi, music, old-permic, caucasian-albanian, batak, grantha, mende-kikakui, manichaean, mongolian, kaithi, math, tai-viet, mahajani, tagalog, kayah-li, gunjala-gondi, mandaic, soyombo, myanmar, oriya, meetei-mayek, balinese, sundanese, bengali, duployan, malayalam, tamil, saurashtra, psalter-pahlavi, limbu, wancho, nko, thai, kharoshthi, tagbanwa, phags-pa, bhaiksuki, lepcha, buhid, buginese, syriac, new-tai-lue, newa, tirhuta, zanabazar-square, warang-citi, pahawh-hmong, symbols, osage, lao, elbasan, ahom, tifinagh, tibetan, hanifi-rohingya, khmer, masaram-gondi, syloti-nagri, yi, tai-tham, hanunoo, adlam, devanagari, modi, armenian, coptic, takri, tai-le, hebrew, thaana, brahmi, canadian-aboriginal, sharada</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: kannada, psalter-pahlavi, bengali, new-tai-lue, balinese, takri, gujarati, syloti-nagri, bassa-vah, miao, mandaic, myanmar, manichaean, devanagari, dogra, hanifi-rohingya, rejang, osage, canadian-aboriginal, armenian, limbu, tamil, tibetan, brahmi, newa, symbols, marchen, yi, lao, tagbanwa, tagalog, kharoshthi, hanunoo, old-permic, khojki, mende-kikakui, duployan, sogdian, sundanese, tai-viet, ahom, elbasan, khudawadi, oriya, buginese, kayah-li, sharada, adlam, gurmukhi, khmer, tai-tham, masaram-gondi, zanabazar-square, sinhala, warang-citi, music, siddham, gunjala-gondi, mahajani, batak, tai-le, math, meetei-mayek, tifinagh, chakma, thai, buhid, nko, hebrew, saurashtra, malayalam, phags-pa, bhaiksuki, javanese, pahawh-hmong, syriac, lepcha, telugu, kaithi, coptic, thaana, modi, wancho, cham, grantha, tirhuta, caucasian-albanian, mongolian, soyombo</li>
 <li>U+25CF BLACK CIRCLE: try adding symbols</li>
 <li>U+25FB WHITE MEDIUM SQUARE: try adding one of: math, symbols</li>
 <li>U+25FC BLACK MEDIUM SQUARE: try adding symbols</li>
