@@ -7,6 +7,78 @@ layers = (
 layerId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
 shapes = (
 {
+closed = 1;
+nodes = (
+(686,-56,o),
+(852,110,o),
+(852,340,cs),
+(852,570,o),
+(686,736,o),
+(456,736,cs),
+(226,736,o),
+(60,570,o),
+(60,340,cs),
+(60,110,o),
+(226,-56,o),
+(456,-56,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(441,473.25,l),
+(348,420,l),
+(348,483,l),
+(447,536,l),
+(512,536,l),
+(512,144,l),
+(441,144,l)
+);
+}
+);
+width = 912;
+},
+{
+layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(656,-56,o),
+(822,110,o),
+(822,340,cs),
+(822,570,o),
+(656,736,o),
+(426,736,cs),
+(196,736,o),
+(30,570,o),
+(30,340,cs),
+(30,110,o),
+(196,-56,o),
+(426,-56,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(384,431.609,l),
+(294,384,l),
+(294,484,l),
+(405,541,l),
+(501,541,l),
+(501,139,l),
+(384,139,l)
+);
+}
+);
+width = 852;
+},
+{
+associatedMasterId = "C5561BE3-178F-4E91-92CF-CFC72B047BCB";
+layerId = "9F2850F3-F64C-46D7-BE5C-45A59E314854";
+name = "Jul 24, 25 at 16:37";
+shapes = (
+{
 alignment = -1;
 attr = {
 reversePaths = 1;
@@ -21,7 +93,9 @@ ref = _part.blackCircle;
 width = 912;
 },
 {
-layerId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+associatedMasterId = "89695F39-7340-4A9C-8DD1-5D7FBCD503D3";
+layerId = "8A04C6F0-2BAC-4491-965E-4ED50B33A2EC";
+name = "Jul 24, 25 at 16:37";
 shapes = (
 {
 alignment = -1;
