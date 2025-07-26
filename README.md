@@ -85,11 +85,13 @@ Thanks to all who provided feedback and encouragements throughout the design pro
 
 ## About the authors
 
-**Local Remote** is a design studio based in Taiwan, working with brands at the forefront of change, through means of experimental, experiential, and multi-sensory storytelling across virtual & physical presence.  
-[contact@localremote.co](mailto:contact@localremote.co) / <https://localremote.co/>
+**Local Remote**  was founded upon, and continues to be defined by, a commitment to unite brands with its people. We mix creativity with strategy, activating a chain reaction that ties together digital and spatial experiences.
+Through joint efforts with our clients and the backing of our cross-disciplinary team, we've cultivated an exceptionally wide array of capabilities within a boutique framework. This versatility empowers us to ideate and bring to life projects across various touch points—be it physical, digital, or environmental—viewing each as a valuable avenue for creativity to spark.
+We’re a diverse group—rooted locally, routed to a global stage.  
+[contact@localremote.co](mailto:contact@localremote.co) | [localremote.co](https://localremote.co/) | [Instagram](https://www.instagram.com/local.remote/)
 
 **Weizhong Zhang** is a freelance type and graphic designer based in Taipei, Taiwan. His practice centers on bilingual typography, exploring the relationship between Latin and Hanzi scripts. He works with studios and clients to create custom typefaces, logotypes, and lettering projects.  
-[adrianzwz@outlook.com](mailto:adrianzwz@outlook.com) / <https://azwz.work/>
+[adrianzwz@outlook.com](mailto:adrianzwz@outlook.com) | [azwz.work](https://azwz.work/) | [Instagram](https://www.instagram.com/a_a.zwz/)
 
 ## License
 
